@@ -1,1689 +1,0 @@
-%PDF-1.4
-%öäüß
-1 0 obj
-<<
-/Type /Catalog
-/Version /1.4
-/Pages 2 0 R
-/Metadata 3 0 R
-/StructTreeRoot 4 0 R
-/MarkInfo 5 0 R
-/Lang (en)
-/ViewerPreferences 6 0 R
-/Outlines 7 0 R
->>
-endobj
-8 0 obj
-<<
-/Title (#include<iostream> using namespace std; int main\(\) { int block[50], process[50]; int b,p; cout<<"Enter number of blocks: "; cin>>b; cout<<"Enter size of blocks: "<<endl; for\(int i=0;i<b;i++\) cin>>block[i]; cout<<"Enter number of processes: "; cin>>p;)
-/Creator (Canva)
-/Producer (Canva)
-/CreationDate (D:20260519142303+00'00')
-/ModDate (D:20260519142303+00'00')
-/Keywords (DAHKGaOZcls,BAGQuglqYZY,0)
-/Author (aanushree gupta)
-/Trapped /False
->>
-endobj
-2 0 obj
-<<
-/Type /Pages
-/Kids [9 0 R]
-/Count 1
->>
-endobj
-3 0 obj
-<<
-/Length 3649
-/Type /Metadata
-/Subtype /XML
->>
-stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about=""
-      xmlns:dc="http://purl.org/dc/elements/1.1/"
-      xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-      xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-      xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
-    dc:language="en"
-    dc:format="application/pdf"
-    pdf:Producer="Canva"
-    pdf:Keywords="DAHKGaOZcls,BAGQuglqYZY,0"
-    pdf:Trapped="False"
-    xmp:CreatorTool="Canva"
-    xmp:CreateDate="2026-05-19T14:23:03.049Z"
-    xmp:ModifyDate="2026-05-19T14:23:03.049Z"
-    xmp:MetadataDate="2026-05-19T14:23:03.049Z"
-    pdfuaid:part="1">
-    <dc:title>
-      <rdf:Alt>
-        <rdf:li xml:lang="x-default">#include&lt;iostream&gt; using namespace std; int main() { int block[50], process[50]; int b,p; cout&lt;&lt;"Enter number of blocks: "; cin&gt;&gt;b; cout&lt;&lt;"Enter size of blocks: "&lt;&lt;endl; for(int i=0;i&lt;b;i++) cin&gt;&gt;block[i]; cout&lt;&lt;"Enter number of processes: "; cin&gt;&gt;p;</rdf:li>
-        <rdf:li xml:lang="en">#include&lt;iostream&gt; using namespace std; int main() { int block[50], process[50]; int b,p; cout&lt;&lt;"Enter number of blocks: "; cin&gt;&gt;b; cout&lt;&lt;"Enter size of blocks: "&lt;&lt;endl; for(int i=0;i&lt;b;i++) cin&gt;&gt;block[i]; cout&lt;&lt;"Enter number of processes: "; cin&gt;&gt;p;</rdf:li>
-      </rdf:Alt>
-    </dc:title>
-    <dc:creator>
-      <rdf:Seq>
-        <rdf:li>aanushree gupta</rdf:li>
-      </rdf:Seq>
-    </dc:creator>
-  </rdf:Description>
-</rdf:RDF>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-endstream
-endobj
-4 0 obj
-<<
-/Type /StructTreeRoot
-/K [10 0 R]
-/ParentTree 11 0 R
-/ParentTreeNextKey 1
-/IDTree 12 0 R
->>
-endobj
-5 0 obj
-<<
-/Marked true
->>
-endobj
-6 0 obj
-<<
-/Type /ViewerPreferences
-/DisplayDocTitle true
->>
-endobj
-7 0 obj
-<<
-/Type /Outlines
-/First 13 0 R
-/Last 14 0 R
-/Count 5
->>
-endobj
-9 0 obj
-<<
-/Type /Page
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 15 0 R
-/XObject <<
-/X13 16 0 R
->>
->>
-/MediaBox [0.0 7.8299813 595.5 850.07996]
-/Contents 17 0 R
-/StructParents 0
-/Tabs /S
-/Parent 2 0 R
-/BleedBox [0.0 7.8299813 595.5 850.07996]
-/TrimBox [0.0 7.8299813 595.5 850.07996]
-/CropBox [0.0 7.8299813 595.5 850.07996]
-/Rotate 0
-/Annots []
->>
-endobj
-10 0 obj
-<<
-/Type /StructElem
-/S /Document
-/P 4 0 R
-/K [18 0 R]
->>
-endobj
-11 0 obj
-<<
-/Limits [0 0]
-/Nums [0 [19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R
-29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R
-39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R
-49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R
-59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R
-69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R
-79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R
-87 0 R 88 0 R 87 0 R 88 0 R 87 0 R 88 0 R 88 0 R 88 0 R 87 0 R 88 0 R
-87 0 R 88 0 R 87 0 R 88 0 R 87 0 R 88 0 R 87 0 R 88 0 R 87 0 R 88 0 R
-89 0 R]
-]
->>
-endobj
-12 0 obj
-<<
-/Names []
->>
-endobj
-13 0 obj
-<<
-/Title (//placement #include<iostream> using namespace std; int main\(\) {    int block[50],process[50],allocation[50],b,p;     cout<<"Enter number of blocks: "; cin>>b;     cout<<"Enter size of blocks: "<<endl;     for\(int i=0;i<b;i++\) cin>>block[i];     cout<<"Enter number of processes: "; cin>>p;     cout<<"Enter size of processes: "<<endl;     for\(int i=0;i<p;i++\) cin>>process[i];     // FIRST FIT     cout<<"\\nFirst Fit Allocation\\n";     int tempBlock1[50];     for\(int i=0;i<b;i++\) tempBlock1[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         for\(int j=0;j<b;j++\)         {     if\(tempBlock1[j]>=process[i]\)             {        allocation[i]=j;                 tempBlock1[j]-=process[i];                 break;}  }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // BEST FIT     cout<<"\\nBest Fit Allocation\\n";     int tempBlock2[50];     for\(int i=0;i<b;i++\) tempBlock2[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         int bestIndex=-1;         for\(int j=0;j<b;j++\)         {      if\(tempBlock2[j]>=process[i]\)             {       if\(bestIndex==-1 || tempBlock2[j]<tempBlock2[bestIndex]\) bestIndex=j;             }        }         if\(bestIndex!=-1\)         {            allocation[i]=bestIndex;             tempBlock2[bestIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<bestIndex+1<<endl;         }        else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;}     // WORST FIT     cout<<"\\nWorst Fit Allocation\\n";   int tempBlock3[50];     for\(int i=0;i<b;i++\) tempBlock3[i]=block[i];     for\(int i=0;i<p;i++\)     {       allocation[i]=-1;    int worstIndex=-1;         for\(int j=0;j<b;j++\)    {             if\(tempBlock3[j]>=process[i]\){                 if\(worstIndex==-1 || tempBlock3[j]>tempBlock3[worstIndex]\) worstIndex=j;             }   }         if\(worstIndex!=-1\)  {             allocation[i]=worstIndex; tempBlock3[worstIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<worstIndex+1<<endl;         }    else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // NEXT FIT     cout<<"\\nNext Fit Allocation\\n"; int tempBlock4[50];     for\(int i=0;i<b;i++\) tempBlock4[i]=block[i];     int lastAllocated=0;     for\(int i=0;i<p;i++\)     {   allocation[i]=-1;         int count=0,j=lastAllocated;         while\(count<b\)         {    if\(tempBlock4[j]>=process[i]\)             {  allocation[i]=j;                 tempBlock4[j]-=process[i];                 lastAllocated=j;                 break; }             j=\(j+1\)%b;          count++;        }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;    }    return 0;})
-/Dest [9 0 R /Fit]
-/Parent 7 0 R
-/Next 90 0 R
->>
-endobj
-14 0 obj
-<<
-/Title (//optimal   #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],pf=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\) fr[i]=-1;   for\(int i=0;i<n;i++\)   {    bool found=false;     for\(int j=0;j<f;j++\)       if\(fr[j]==p[i]\) found=true;     if\(!found\)     { int pos=0,far=-1;       for\(int j=0;j<f;j++\)       { if\(fr[j]==-1\)         {pos=j;           break;   }         int k;         for\(k=i+1;k<n;k++\)           if\(fr[j]==p[k]\) break;         if\(k>far\)         { far=k;           pos=j; } }       fr[pos]=p[i];       pf++; } }   cout<<"Page Faults = "<<pf;   return 0; })
-/Dest [9 0 R /Fit]
-/Parent 7 0 R
-/Prev 91 0 R
-/First 92 0 R
-/Last 93 0 R
-/Count -2
->>
-endobj
-15 0 obj
-<<
-/G3 94 0 R
-/gs2 95 0 R
->>
-endobj
-16 0 obj
-<<
-/Length 1003
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 96 0 R
-/XObject <<
-/X5 97 0 R
-/X6 98 0 R
-/X7 99 0 R
-/X8 100 0 R
-/X9 101 0 R
-/X10 102 0 R
-/X11 103 0 R
-/X12 104 0 R
->>
->>
-/BBox [0 0 2482 3510]
-/Group 105 0 R
-/Filter /FlateDecode
->>
-stream
-xœ…—ËnÜFD÷ı\g!±ùê™eâ^y¡lâm`DF€a)şU÷”ÃctÄ^ªÜÍ3œyi?¾~úóù÷Ÿ¦ŸŞ½ió4OËvYúe_§uïóÃq½L¯´ß~hµ_Ş½i/m}èËÑÇeÒÙ_|8[Ÿôï×·üòú±=¾]§ÿÜùCãºM½/«.ÿÜÚ“ÓYÃõË—aıá¯/ğø~Ÿ~şûõÑ—‡>®W5û¶ÀÙ¶inm›¶éÖfÿÔØÙúâúB¦ŸığK‹&o¡°èBg[4}…U×:Ûªñ›@(lÔ Glué­ªìUeg .½W—£º5°×¥êrT—£ºô¨.£ºŒü/«Ë¥º\jàÂªT—ku¹2P—¾V—>W‘Ø4W>W1¹é¥>[÷òê˜9Ö¾{½µ#ÕKL^dÇ¼Ì73¹éu?[÷RßÌä¦×^¯ÓVnzıÏÖ½ä:féŞƒ³u/»™cSº÷álİK3“›Ş‹³u/ÿÍLnz?ô:ıXuå¦÷älİÛ cæØ¤ÅÛ¢Û¶ú‰É‹Õoá–“›¹ísß³îÊÍÜú¹÷só³O·ÿÂı/&/Iè‡bò"ığ@Ln¢Â‚br|“›(±à„˜ÜD‹/ÄäEúá†˜ÜD=Ää~#À?Ää&~¬ø!&¯7’ê·â‡˜¼XıVü“›ø±â‡˜ÜÄ?Ää&~¬ø!&7ñcÅ1y‘~ø!&7ñcÅ1¹‰+~ˆÉMüXñCL^o¶¼ã‡˜¼Xı6ü“›ø±á‡˜ÜÄ?Ää&~lø!&7??"òŒ`.O	üØğCLnâÇ†br?6ü“›ø±á‡˜¼HôÃ1y‘~ø!&7ñcÇ1¹jø±ã‡˜ÜÄ?Ää&~ìø!&/ò˜Å1¹‰;~ˆÉMüØñCLnâÇbòzhÓ?ÄäEúá‡˜ÜÄ?Ää&~ìø!&7ñcÇ1¹xàÇbòbõ;ğCLnâÇbr?ü“›øqà‡˜ÜÄ?ÄäEúá‡˜ÜÌG©|–bİ•›ù8•ÏSù@Å>øqà‡˜ÜÄ?ÄäEúá‡˜ÜÄbrqàÇÀ1¹‰?Ää&~ü“«ßÀ1¹‰?Ää&~ü“›ø1ğCLnâÇÀ1y‘~ø!&7ñcà‡˜ÜÄbr?Æu}8öcuÖç£œ#>ûëÈS{iİßDútõÿî›/ï|yùïÙ}|ïôqït}¿Ç½Ó/÷N×ÑÇ~÷ú×»u–Ë:õ±Œ{}¾?²ÍÓ2æõîH¿;réßïÕ—/#ÿp”àS
-endstream
-endobj
-17 0 obj
-<<
-/Length 195
-/Filter /FlateDecode
->>
-stream
-xœ}Á
-Â@DïùŠ9f³›nÛ´ñĞƒ^ô*¥UZıd« ‚˜\&Lx3=±Ó0‚éç™{aÉBHQwÔ“Y÷óéXß±¬
-Šß.É-;õX3¡¡ı„.´ª
-êIÙ:?bßªîÈ"înıCKf­ho?²ÀZ§|¢-m©ÿM‰ì§x³c£o¾9XEyH6íÍ-6İ±m0›™ªØ”‚ùË² aA¢)«µi<»ÄAYí"çò®I¿
-endstream
-endobj
-18 0 obj
-<<
-/Type /StructElem
-/S /Part
-/P 10 0 R
-/Pg 9 0 R
-/K [19 0 R 20 0 R 21 0 R 89 0 R 22 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R
-30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R
-40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R
-50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 23 0 R
-24 0 R 87 0 R 88 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R
-66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R
-76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R
-86 0 R]
->>
-endobj
-19 0 obj
-<<
-/Type /StructElem
-/S /H2
-/P 18 0 R
-/T (//placement #include<iostream> using namespace std; int main\(\) {    int block[50],process[50],allocation[50],b,p;     cout<<"Enter number of blocks: "; cin>>b;     cout<<"Enter size of blocks: "<<endl;     for\(int i=0;i<b;i++\) cin>>block[i];     cout<<"Enter number of processes: "; cin>>p;     cout<<"Enter size of processes: "<<endl;     for\(int i=0;i<p;i++\) cin>>process[i];     // FIRST FIT     cout<<"\\nFirst Fit Allocation\\n";     int tempBlock1[50];     for\(int i=0;i<b;i++\) tempBlock1[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         for\(int j=0;j<b;j++\)         {     if\(tempBlock1[j]>=process[i]\)             {        allocation[i]=j;                 tempBlock1[j]-=process[i];                 break;}  }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // BEST FIT     cout<<"\\nBest Fit Allocation\\n";     int tempBlock2[50];     for\(int i=0;i<b;i++\) tempBlock2[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         int bestIndex=-1;         for\(int j=0;j<b;j++\)         {      if\(tempBlock2[j]>=process[i]\)             {       if\(bestIndex==-1 || tempBlock2[j]<tempBlock2[bestIndex]\) bestIndex=j;             }        }         if\(bestIndex!=-1\)         {            allocation[i]=bestIndex;             tempBlock2[bestIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<bestIndex+1<<endl;         }        else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;}     // WORST FIT     cout<<"\\nWorst Fit Allocation\\n";   int tempBlock3[50];     for\(int i=0;i<b;i++\) tempBlock3[i]=block[i];     for\(int i=0;i<p;i++\)     {       allocation[i]=-1;    int worstIndex=-1;         for\(int j=0;j<b;j++\)    {             if\(tempBlock3[j]>=process[i]\){                 if\(worstIndex==-1 || tempBlock3[j]>tempBlock3[worstIndex]\) worstIndex=j;             }   }         if\(worstIndex!=-1\)  {             allocation[i]=worstIndex; tempBlock3[worstIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<worstIndex+1<<endl;         }    else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // NEXT FIT     cout<<"\\nNext Fit Allocation\\n"; int tempBlock4[50];     for\(int i=0;i<b;i++\) tempBlock4[i]=block[i];     int lastAllocated=0;     for\(int i=0;i<p;i++\)     {   allocation[i]=-1;         int count=0,j=lastAllocated;         while\(count<b\)         {    if\(tempBlock4[j]>=process[i]\)             {  allocation[i]=j;                 tempBlock4[j]-=process[i];                 lastAllocated=j;                 break; }             j=\(j+1\)%b;          count++;        }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;    }    return 0;})
-/E (//placement #include<iostream> using namespace std; int main\(\) {    int block[50],process[50],allocation[50],b,p;     cout<<"Enter number of blocks: "; cin>>b;     cout<<"Enter size of blocks: "<<endl;     for\(int i=0;i<b;i++\) cin>>block[i];     cout<<"Enter number of processes: "; cin>>p;     cout<<"Enter size of processes: "<<endl;     for\(int i=0;i<p;i++\) cin>>process[i];     // FIRST FIT     cout<<"\\nFirst Fit Allocation\\n";     int tempBlock1[50];     for\(int i=0;i<b;i++\) tempBlock1[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         for\(int j=0;j<b;j++\)         {     if\(tempBlock1[j]>=process[i]\)             {        allocation[i]=j;                 tempBlock1[j]-=process[i];                 break;}  }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // BEST FIT     cout<<"\\nBest Fit Allocation\\n";     int tempBlock2[50];     for\(int i=0;i<b;i++\) tempBlock2[i]=block[i];     for\(int i=0;i<p;i++\)     {        allocation[i]=-1;         int bestIndex=-1;         for\(int j=0;j<b;j++\)         {      if\(tempBlock2[j]>=process[i]\)             {       if\(bestIndex==-1 || tempBlock2[j]<tempBlock2[bestIndex]\) bestIndex=j;             }        }         if\(bestIndex!=-1\)         {            allocation[i]=bestIndex;             tempBlock2[bestIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<bestIndex+1<<endl;         }        else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;}     // WORST FIT     cout<<"\\nWorst Fit Allocation\\n";   int tempBlock3[50];     for\(int i=0;i<b;i++\) tempBlock3[i]=block[i];     for\(int i=0;i<p;i++\)     {       allocation[i]=-1;    int worstIndex=-1;         for\(int j=0;j<b;j++\)    {             if\(tempBlock3[j]>=process[i]\){                 if\(worstIndex==-1 || tempBlock3[j]>tempBlock3[worstIndex]\) worstIndex=j;             }   }         if\(worstIndex!=-1\)  {             allocation[i]=worstIndex; tempBlock3[worstIndex]-=process[i];             cout<<"Process "<<i+1<<" -> Block "<<worstIndex+1<<endl;         }    else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl; }     // NEXT FIT     cout<<"\\nNext Fit Allocation\\n"; int tempBlock4[50];     for\(int i=0;i<b;i++\) tempBlock4[i]=block[i];     int lastAllocated=0;     for\(int i=0;i<p;i++\)     {   allocation[i]=-1;         int count=0,j=lastAllocated;         while\(count<b\)         {    if\(tempBlock4[j]>=process[i]\)             {  allocation[i]=j;                 tempBlock4[j]-=process[i];                 lastAllocated=j;                 break; }             j=\(j+1\)%b;          count++;        }         if\(allocation[i]!=-1\) cout<<"Process "<<i+1<<" -> Block "<<allocation[i]+1<<endl;         else cout<<"Process "<<i+1<<" -> Not Allocated"<<endl;    }    return 0;})
-/Pg 9 0 R
-/K [0]
->>
-endobj
-20 0 obj
-<<
-/Type /StructElem
-/S /H2
-/P 18 0 R
-/T (//bankers #include <iostream> using namespace std; int main\(\) {   int n, m;   //resouces and process input   cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resources: ";   cin >> m;   //matrix of alloc max & available   int alloc[n][m], max[n][m], avail[m];   //alocation matrix   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> alloc[i][j];   //max    cout << "\\nEnter Max Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> max[i][j];   //availavble   cout << "\\nEnter Available Resources:\\n";   for\(int j = 0; j < m; j++\)     cin >> avail[j];   //need matrix   int need[n][m];   for\(int i = 0; i < n; i++\) {    for\(int j = 0; j < m; j++\)       { need[i][j] = max[i][j] - alloc[i][j]; } for\(int j=0;j<m;j++\)   cout << need[i][j] << " "; cout << endl;  }   bool finish[n] = {false}; //to check if process is complete   int safeSeq[n]; //safesequence storage   int count = 0; //to count no of completed process   //loop runs for all process-> complete   while\(count < n\) {     bool found = false; //to check proess not complete     for\(int i = 0; i < n; i++\) {       if\(!finish[i]\) {         int j;         for\(j = 0; j < m; j++\) {           if\(need[i][j] > avail[j]\)             break;         }         if\(j == m\) {   //all resources r satisfied           //to rerelease resources           for\(int k = 0; k < m; k++\)             avail[k] += alloc[i][k];           //to add process to safe sequence           safeSeq[count++] = i;           finish[i] = true;           found = true;         }      }    }     // deadlock possibility     if\(!found\) {       cout << "\\nSystem is NOT in safe state \(Deadlock possible\)\\n";       return 0;    }  }   // safe sequence possibility   cout << "\\nSystem is in SAFE state.\\nSafe Sequence: ";   for\(int i = 0; i < n; i++\)     cout << "P" << safeSeq[i] << " ";   cout << endl;  return 0; })
-/E (//bankers #include <iostream> using namespace std; int main\(\) {   int n, m;   //resouces and process input   cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resources: ";   cin >> m;   //matrix of alloc max & available   int alloc[n][m], max[n][m], avail[m];   //alocation matrix   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> alloc[i][j];   //max    cout << "\\nEnter Max Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> max[i][j];   //availavble   cout << "\\nEnter Available Resources:\\n";   for\(int j = 0; j < m; j++\)     cin >> avail[j];   //need matrix   int need[n][m];   for\(int i = 0; i < n; i++\) {    for\(int j = 0; j < m; j++\)       { need[i][j] = max[i][j] - alloc[i][j]; } for\(int j=0;j<m;j++\)   cout << need[i][j] << " "; cout << endl;  }   bool finish[n] = {false}; //to check if process is complete   int safeSeq[n]; //safesequence storage   int count = 0; //to count no of completed process   //loop runs for all process-> complete   while\(count < n\) {     bool found = false; //to check proess not complete     for\(int i = 0; i < n; i++\) {       if\(!finish[i]\) {         int j;         for\(j = 0; j < m; j++\) {           if\(need[i][j] > avail[j]\)             break;         }         if\(j == m\) {   //all resources r satisfied           //to rerelease resources           for\(int k = 0; k < m; k++\)             avail[k] += alloc[i][k];           //to add process to safe sequence           safeSeq[count++] = i;           finish[i] = true;           found = true;         }      }    }     // deadlock possibility     if\(!found\) {       cout << "\\nSystem is NOT in safe state \(Deadlock possible\)\\n";       return 0;    }  }   // safe sequence possibility   cout << "\\nSystem is in SAFE state.\\nSafe Sequence: ";   for\(int i = 0; i < n; i++\)     cout << "P" << safeSeq[i] << " ";   cout << endl;  return 0; })
-/Pg 9 0 R
-/K [1]
->>
-endobj
-21 0 obj
-<<
-/Type /StructElem
-/S /H1
-/P 18 0 R
-/T (//deadlock #include <iostream> using namespace std; int main\(\){  int n, m; cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resource types: ";   cin >> m;   int allocation[n][m], request[n][m], available[m];   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)   {    for\(int j = 0; j < m; j++\)     { cin >> allocation[i][j];  } }   cout << "\\nEnter Request Matrix:\\n";   for\(int i = 0; i < n; i++\)   { for\(int j = 0; j < m; j++\)     {  cin >> request[i][j];  } }   cout << "\\nEnter Available Resources:\\n";   for\(int i = 0; i < m; i++\)   { cin >> available[i]; }   int work[m] , bool finish[n];   // Step 1: Initialize   for\(int i = 0; i < m; i++\)   { work[i] = available[i]; }   for\(int i = 0; i < n; i++\)   { finish[i] = false; }   // Step 2 & 3   bool found;   do  {     found = false;     for\(int i = 0; i < n; i++\)     { if\(finish[i] == false\)       { bool possible = true;         for\(int j = 0; j < m; j++\)         { if\(request[i][j] > work[j]\)           { possible = false;             break; }  }         if\(possible\)         { for\(int j = 0; j < m; j++\)           { work[j] += allocation[i][j]; }           finish[i] = true;           found = true; } }  } }  while\(found\);   // Step 4: Check deadlock   bool deadlock = false;   cout << "\\nDeadlocked Processes: ";   for\(int i = 0; i < n; i++\)   {if\(finish[i] == false\)     { cout << "P" << i << " ";       deadlock = true; } }   if\(deadlock == false\)   { cout << "No Deadlock"; }   return 0;})
-/E (//deadlock #include <iostream> using namespace std; int main\(\){  int n, m; cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resource types: ";   cin >> m;   int allocation[n][m], request[n][m], available[m];   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)   {    for\(int j = 0; j < m; j++\)     { cin >> allocation[i][j];  } }   cout << "\\nEnter Request Matrix:\\n";   for\(int i = 0; i < n; i++\)   { for\(int j = 0; j < m; j++\)     {  cin >> request[i][j];  } }   cout << "\\nEnter Available Resources:\\n";   for\(int i = 0; i < m; i++\)   { cin >> available[i]; }   int work[m] , bool finish[n];   // Step 1: Initialize   for\(int i = 0; i < m; i++\)   { work[i] = available[i]; }   for\(int i = 0; i < n; i++\)   { finish[i] = false; }   // Step 2 & 3   bool found;   do  {     found = false;     for\(int i = 0; i < n; i++\)     { if\(finish[i] == false\)       { bool possible = true;         for\(int j = 0; j < m; j++\)         { if\(request[i][j] > work[j]\)           { possible = false;             break; }  }         if\(possible\)         { for\(int j = 0; j < m; j++\)           { work[j] += allocation[i][j]; }           finish[i] = true;           found = true; } }  } }  while\(found\);   // Step 4: Check deadlock   bool deadlock = false;   cout << "\\nDeadlocked Processes: ";   for\(int i = 0; i < n; i++\)   {if\(finish[i] == false\)     { cout << "P" << i << " ";       deadlock = true; } }   if\(deadlock == false\)   { cout << "No Deadlock"; }   return 0;})
-/Pg 9 0 R
-/K [2]
->>
-endobj
-22 0 obj
-<<
-/Type /StructElem
-/S /H2
-/P 18 0 R
-/T (//buddy #include <iostream> #include <cmath> using namespace std; struct Block {   int size;   bool free; }; int main\(\) {   int memorySize, n;   cout << "Enter total memory size \(power of 2\): ";   cin >> memorySize;   cout << "Enter number of processes: ";   cin >> n;   int process[n];   cout << "Enter process sizes:\\n";   for\(int i = 0; i < n; i++\)     cin >> process[i];   Block blocks[100];   // initially one free block   int blockCount = 1;   blocks[0].size = memorySize;   blocks[0].free = true;   for\(int i = 0; i < n; i++\) {     int required = 1;     // find nearest power of 2     while\(required < process[i]\)       required *= 2;     bool allocated = false;     for\(int j = 0; j < blockCount; j++\) {       // split until suitable size       while\(blocks[j].size / 2 >= required && blocks[j].free\) {         blocks[blockCount].size = blocks[j].size / 2;         blocks[blockCount].free = true;         blocks[j].size /= 2;         blockCount++; }       // allocate block       if\(blocks[j].free && blocks[j].size >= required\) {         blocks[j].free = false;         cout << "\\nProcess " << i + 1            << " of size " << process[i]            << " allocated in block size "            << blocks[j].size;         cout << "\\nInternal Fragmentation = "            << blocks[j].size - process[i] << endl;         allocated = true;         break;  }   }     if\(!allocated\) {       cout << "\\nProcess " << i + 1          << " cannot be allocated.\\n";    }  }   // memory status   cout << "\\n\\nMemory Blocks Status:\\n";   for\(int i = 0; i < blockCount; i++\) {     cout << "Block " << i + 1        << " Size: " << blocks[i].size        << " -> ";     if\(blocks[i].free\)       cout << "Free";     else       cout << "Allocated";     cout << endl; }   return 0;})
-/E (//buddy #include <iostream> #include <cmath> using namespace std; struct Block {   int size;   bool free; }; int main\(\) {   int memorySize, n;   cout << "Enter total memory size \(power of 2\): ";   cin >> memorySize;   cout << "Enter number of processes: ";   cin >> n;   int process[n];   cout << "Enter process sizes:\\n";   for\(int i = 0; i < n; i++\)     cin >> process[i];   Block blocks[100];   // initially one free block   int blockCount = 1;   blocks[0].size = memorySize;   blocks[0].free = true;   for\(int i = 0; i < n; i++\) {     int required = 1;     // find nearest power of 2     while\(required < process[i]\)       required *= 2;     bool allocated = false;     for\(int j = 0; j < blockCount; j++\) {       // split until suitable size       while\(blocks[j].size / 2 >= required && blocks[j].free\) {         blocks[blockCount].size = blocks[j].size / 2;         blocks[blockCount].free = true;         blocks[j].size /= 2;         blockCount++; }       // allocate block       if\(blocks[j].free && blocks[j].size >= required\) {         blocks[j].free = false;         cout << "\\nProcess " << i + 1            << " of size " << process[i]            << " allocated in block size "            << blocks[j].size;         cout << "\\nInternal Fragmentation = "            << blocks[j].size - process[i] << endl;         allocated = true;         break;  }   }     if\(!allocated\) {       cout << "\\nProcess " << i + 1          << " cannot be allocated.\\n";    }  }   // memory status   cout << "\\n\\nMemory Blocks Status:\\n";   for\(int i = 0; i < blockCount; i++\) {     cout << "Block " << i + 1        << " Size: " << blocks[i].size        << " -> ";     if\(blocks[i].free\)       cout << "Free";     else       cout << "Allocated";     cout << endl; }   return 0;})
-/Pg 9 0 R
-/K [3]
->>
-endobj
-23 0 obj
-<<
-/Type /StructElem
-/S /H1
-/P 18 0 R
-/T (/  //lru #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],time[10],pf=0,cnt=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\)   { fr[i]=-1;     time[i]=0; }   for\(int i=0;i<n;i++\)   { bool found=false;     for\(int j=0;j<f;j++\)     { if\(fr[j]==p[i]\)       { cnt++;         time[j]=cnt;         found=true;  } }     if\(!found\)     { int pos=0;       for\(int j=1;j<f;j++\)         if\(time[j]<time[pos]\) pos=j;       cnt++;       fr[pos]=p[i];       time[pos]=cnt;       pf++;  }  }   cout<<"Page Faults = "<<pf;   return 0; })
-/E (/  //lru #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],time[10],pf=0,cnt=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\)   { fr[i]=-1;     time[i]=0; }   for\(int i=0;i<n;i++\)   { bool found=false;     for\(int j=0;j<f;j++\)     { if\(fr[j]==p[i]\)       { cnt++;         time[j]=cnt;         found=true;  } }     if\(!found\)     { int pos=0;       for\(int j=1;j<f;j++\)         if\(time[j]<time[pos]\) pos=j;       cnt++;       fr[pos]=p[i];       time[pos]=cnt;       pf++;  }  }   cout<<"Page Faults = "<<pf;   return 0; })
-/Pg 9 0 R
-/K [4]
->>
-endobj
-24 0 obj
-<<
-/Type /StructElem
-/S /H1
-/P 18 0 R
-/T (  //optimal   #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],pf=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\) fr[i]=-1;   for\(int i=0;i<n;i++\)   {    bool found=false;     for\(int j=0;j<f;j++\)       if\(fr[j]==p[i]\) found=true;     if\(!found\)     { int pos=0,far=-1;       for\(int j=0;j<f;j++\)       { if\(fr[j]==-1\)         {pos=j;           break;   }         int k;         for\(k=i+1;k<n;k++\)           if\(fr[j]==p[k]\) break;         if\(k>far\)         { far=k;           pos=j; } }       fr[pos]=p[i];       pf++; } }   cout<<"Page Faults = "<<pf;   return 0; })
-/E (  //optimal   #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],pf=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\) fr[i]=-1;   for\(int i=0;i<n;i++\)   {    bool found=false;     for\(int j=0;j<f;j++\)       if\(fr[j]==p[i]\) found=true;     if\(!found\)     { int pos=0,far=-1;       for\(int j=0;j<f;j++\)       { if\(fr[j]==-1\)         {pos=j;           break;   }         int k;         for\(k=i+1;k<n;k++\)           if\(fr[j]==p[k]\) break;         if\(k>far\)         { far=k;           pos=j; } }       fr[pos]=p[i];       pf++; } }   cout<<"Page Faults = "<<pf;   return 0; })
-/Pg 9 0 R
-/K [5]
->>
-endobj
-25 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (//fifo)
-/Pg 9 0 R
-/K [6]
->>
-endobj
-26 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (#include <iostream>)
-/Pg 9 0 R
-/K [7]
->>
-endobj
-27 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (using namespace std;)
-/Pg 9 0 R
-/K [8]
->>
-endobj
-28 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (int main\(\){)
-/Pg 9 0 R
-/K [9]
->>
-endobj
-29 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( int pages[50], frame[10];)
-/Pg 9 0 R
-/K [10]
->>
-endobj
-30 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( int n, f, pageFault = 0;)
-/Pg 9 0 R
-/K [11]
->>
-endobj
-31 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << "Enter number of pages: ";)
-/Pg 9 0 R
-/K [12]
->>
-endobj
-32 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cin >> n;)
-/Pg 9 0 R
-/K [13]
->>
-endobj
-33 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << "Enter page reference string:\\n";)
-/Pg 9 0 R
-/K [14]
->>
-endobj
-34 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( for\(int i = 0; i < n; i++\))
-/Pg 9 0 R
-/K [15]
->>
-endobj
-35 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cin >> pages[i];)
-/Pg 9 0 R
-/K [16]
->>
-endobj
-36 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << "Enter number of frames: ";)
-/Pg 9 0 R
-/K [17]
->>
-endobj
-37 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cin >> f;)
-/Pg 9 0 R
-/K [18]
->>
-endobj
-38 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( // initialize frames with -1)
-/Pg 9 0 R
-/K [19]
->>
-endobj
-39 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( for\(int i = 0; i < f; i++\))
-/Pg 9 0 R
-/K [20]
->>
-endobj
-40 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( frame[i] = -1;)
-/Pg 9 0 R
-/K [21]
->>
-endobj
-41 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( int index = 0;)
-/Pg 9 0 R
-/K [22]
->>
-endobj
-42 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( for\(int i = 0; i < n; i++\))
-/Pg 9 0 R
-/K [23]
->>
-endobj
-43 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( { bool found = false;)
-/Pg 9 0 R
-/K [24]
->>
-endobj
-44 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( // check if page already exists)
-/Pg 9 0 R
-/K [25]
->>
-endobj
-45 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( for\(int j = 0; j < f; j++\))
-/Pg 9 0 R
-/K [26]
->>
-endobj
-46 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( { if\(frame[j] == pages[i]\))
-/Pg 9 0 R
-/K [27]
->>
-endobj
-47 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( { found = true; break; } })
-/Pg 9 0 R
-/K [28]
->>
-endobj
-48 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( // page fault)
-/Pg 9 0 R
-/K [29]
->>
-endobj
-49 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( if\(!found\) {)
-/Pg 9 0 R
-/K [30]
->>
-endobj
-50 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( frame[index] = pages[i];)
-/Pg 9 0 R
-/K [31]
->>
-endobj
-51 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( index = \(index + 1\) % f;)
-/Pg 9 0 R
-/K [32]
->>
-endobj
-52 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( pageFault++;)
-/Pg 9 0 R
-/K [33]
->>
-endobj
-53 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << "Frames: ";)
-/Pg 9 0 R
-/K [34]
->>
-endobj
-54 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( for\(int j = 0; j < f; j++\))
-/Pg 9 0 R
-/K [35]
->>
-endobj
-55 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << frame[j] << " ";)
-/Pg 9 0 R
-/K [36]
->>
-endobj
-56 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << endl; } })
-/Pg 9 0 R
-/K [37]
->>
-endobj
-57 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( cout << "\\nTotal Page Faults = " << pageFault;)
-/Pg 9 0 R
-/K [38]
->>
-endobj
-58 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ( return 0; } )
-/Pg 9 0 R
-/K [39]
->>
-endobj
-59 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (//logical ti physical)
-/Pg 9 0 R
-/K [40]
->>
-endobj
-60 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (#include <iostream>)
-/Pg 9 0 R
-/K [41]
->>
-endobj
-61 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (using namespace std;)
-/Pg 9 0 R
-/K [42]
->>
-endobj
-62 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (int main\(\))
-/Pg 9 0 R
-/K [43]
->>
-endobj
-63 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E ({  int logicalAddress, pageSize, numPages;)
-/Pg 9 0 R
-/K [44]
->>
-endobj
-64 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cout << "Enter page size: ";)
-/Pg 9 0 R
-/K [45]
->>
-endobj
-65 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cin >> pageSize;)
-/Pg 9 0 R
-/K [46]
->>
-endobj
-66 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cout << "Enter number of pages: ";)
-/Pg 9 0 R
-/K [47]
->>
-endobj
-67 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cin >> numPages;)
-/Pg 9 0 R
-/K [48]
->>
-endobj
-68 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  int pageTable[numPages];)
-/Pg 9 0 R
-/K [49]
->>
-endobj
-69 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cout << "Enter page table \(Frame numbers\):\\n";)
-/Pg 9 0 R
-/K [50]
->>
-endobj
-70 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  for\(int i = 0; i < numPages; i++\))
-/Pg 9 0 R
-/K [51]
->>
-endobj
-71 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  { cout << "Page " << i << " -> Frame: ";)
-/Pg 9 0 R
-/K [52]
->>
-endobj
-72 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    cin >> pageTable[i];  })
-/Pg 9 0 R
-/K [53]
->>
-endobj
-73 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cout << "Enter logical address: ";)
-/Pg 9 0 R
-/K [54]
->>
-endobj
-74 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  cin >> logicalAddress;)
-/Pg 9 0 R
-/K [55]
->>
-endobj
-75 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  int pageNumber = logicalAddress / pageSize;)
-/Pg 9 0 R
-/K [56]
->>
-endobj
-76 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  int offset = logicalAddress % pageSize;)
-/Pg 9 0 R
-/K [57]
->>
-endobj
-77 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  if\(pageNumber >= numPages\))
-/Pg 9 0 R
-/K [58]
->>
-endobj
-78 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  { cout << "Invalid Logical Address!";})
-/Pg 9 0 R
-/K [59]
->>
-endobj
-79 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  else  {)
-/Pg 9 0 R
-/K [60]
->>
-endobj
-80 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    int frameNumber = pageTable[pageNumber];)
-/Pg 9 0 R
-/K [61]
->>
-endobj
-81 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    int physicalAddress = frameNumber * pageSize + offset;)
-/Pg 9 0 R
-/K [62]
->>
-endobj
-82 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    cout << "\\nPage Number: " << pageNumber;)
-/Pg 9 0 R
-/K [63]
->>
-endobj
-83 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    cout << "\\nOffset: " << offset;)
-/Pg 9 0 R
-/K [64]
->>
-endobj
-84 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    cout << "\\nFrame Number: " << frameNumber;)
-/Pg 9 0 R
-/K [65]
->>
-endobj
-85 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (    cout << "\\nPhysical Address: " << physicalAddress;)
-/Pg 9 0 R
-/K [66]
->>
-endobj
-86 0 obj
-<<
-/Type /StructElem
-/S /P
-/P 18 0 R
-/E (  }  return 0; })
-/Pg 9 0 R
-/K [67]
->>
-endobj
-87 0 obj
-<<
-/Type /StructElem
-/S /H2
-/P 18 0 R
-/T (//ldisk //fifo #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;     cout << "Enter number of requests: ";   cin >> n;   int req[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\)     cin >> req[i];   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     seek += abs\(head - req[i]\);     head = req[i];  }   cout << "Total Seek Time \(FCFS\): " << seek; return 0; })
-/E (//ldisk //fifo #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;     cout << "Enter number of requests: ";   cin >> n;   int req[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\)     cin >> req[i];   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     seek += abs\(head - req[i]\);     head = req[i];  }   cout << "Total Seek Time \(FCFS\): " << seek; return 0; })
-/Pg 9 0 R
-/K [68 80 70 82 72 84 74 86 88 78]
->>
-endobj
-88 0 obj
-<<
-/Type /StructElem
-/S /H2
-/P 18 0 R
-/T (//sstf #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;   cout << "Enter number of requests: ";   cin >> n;   int req[n], completed[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\) {     cin >> req[i];     completed[i] = 0;  }   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     int min = 1e9, index = -1;     for\(int j = 0; j < n; j++\) {       if\(!completed[j]\) {         int dist = abs\(head - req[j]\);         if\(dist < min\) {           min = dist;           index = j; }  } }     seek += min;     head = req[index];     completed[index] = 1;  }   cout << "Total Seek Time \(SSTF\): " << seek;   return 0; })
-/E (//sstf #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;   cout << "Enter number of requests: ";   cin >> n;   int req[n], completed[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\) {     cin >> req[i];     completed[i] = 0;  }   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     int min = 1e9, index = -1;     for\(int j = 0; j < n; j++\) {       if\(!completed[j]\) {         int dist = abs\(head - req[j]\);         if\(dist < min\) {           min = dist;           index = j; }  } }     seek += min;     head = req[index];     completed[index] = 1;  }   cout << "Total Seek Time \(SSTF\): " << seek;   return 0; })
-/Pg 9 0 R
-/K [79 69 81 71 83 73 77 75 87 76
-85 89]
->>
-endobj
-89 0 obj
-<<
-/Type /StructElem
-/S /Figure
-/P 18 0 R
-/Pg 9 0 R
-/A [106 0 R 0]
-/K [90]
->>
-endobj
-90 0 obj
-<<
-/Title (//bankers #include <iostream> using namespace std; int main\(\) {   int n, m;   //resouces and process input   cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resources: ";   cin >> m;   //matrix of alloc max & available   int alloc[n][m], max[n][m], avail[m];   //alocation matrix   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> alloc[i][j];   //max    cout << "\\nEnter Max Matrix:\\n";   for\(int i = 0; i < n; i++\)     for\(int j = 0; j < m; j++\)       cin >> max[i][j];   //availavble   cout << "\\nEnter Available Resources:\\n";   for\(int j = 0; j < m; j++\)     cin >> avail[j];   //need matrix   int need[n][m];   for\(int i = 0; i < n; i++\) {    for\(int j = 0; j < m; j++\)       { need[i][j] = max[i][j] - alloc[i][j]; } for\(int j=0;j<m;j++\)   cout << need[i][j] << " "; cout << endl;  }   bool finish[n] = {false}; //to check if process is complete   int safeSeq[n]; //safesequence storage   int count = 0; //to count no of completed process   //loop runs for all process-> complete   while\(count < n\) {     bool found = false; //to check proess not complete     for\(int i = 0; i < n; i++\) {       if\(!finish[i]\) {         int j;         for\(j = 0; j < m; j++\) {           if\(need[i][j] > avail[j]\)             break;         }         if\(j == m\) {   //all resources r satisfied           //to rerelease resources           for\(int k = 0; k < m; k++\)             avail[k] += alloc[i][k];           //to add process to safe sequence           safeSeq[count++] = i;           finish[i] = true;           found = true;         }      }    }     // deadlock possibility     if\(!found\) {       cout << "\\nSystem is NOT in safe state \(Deadlock possible\)\\n";       return 0;    }  }   // safe sequence possibility   cout << "\\nSystem is in SAFE state.\\nSafe Sequence: ";   for\(int i = 0; i < n; i++\)     cout << "P" << safeSeq[i] << " ";   cout << endl;  return 0; })
-/Dest [9 0 R /Fit]
-/Parent 7 0 R
-/Prev 13 0 R
-/Next 107 0 R
->>
-endobj
-91 0 obj
-<<
-/Title (/  //lru #include<iostream> using namespace std; int main\(\) { int n,f,p[50],fr[10],time[10],pf=0,cnt=0;   cin>>n;   for\(int i=0;i<n;i++\) cin>>p[i];   cin>>f;   for\(int i=0;i<f;i++\)   { fr[i]=-1;     time[i]=0; }   for\(int i=0;i<n;i++\)   { bool found=false;     for\(int j=0;j<f;j++\)     { if\(fr[j]==p[i]\)       { cnt++;         time[j]=cnt;         found=true;  } }     if\(!found\)     { int pos=0;       for\(int j=1;j<f;j++\)         if\(time[j]<time[pos]\) pos=j;       cnt++;       fr[pos]=p[i];       time[pos]=cnt;       pf++;  }  }   cout<<"Page Faults = "<<pf;   return 0; })
-/Dest [9 0 R /Fit]
-/Parent 7 0 R
-/Prev 107 0 R
-/Next 14 0 R
->>
-endobj
-92 0 obj
-<<
-/Title (//ldisk //fifo #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;     cout << "Enter number of requests: ";   cin >> n;   int req[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\)     cin >> req[i];   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     seek += abs\(head - req[i]\);     head = req[i];  }   cout << "Total Seek Time \(FCFS\): " << seek; return 0; })
-/Dest [9 0 R /Fit]
-/Parent 14 0 R
-/Next 93 0 R
->>
-endobj
-93 0 obj
-<<
-/Title (//sstf #include <iostream> #include <cmath> using namespace std; int main\(\) {   int n, head;   cout << "Enter number of requests: ";   cin >> n;   int req[n], completed[n];   cout << "Enter request sequence:\\n";   for\(int i = 0; i < n; i++\) {     cin >> req[i];     completed[i] = 0;  }   cout << "Enter initial head position: ";   cin >> head;   int seek = 0;   for\(int i = 0; i < n; i++\) {     int min = 1e9, index = -1;     for\(int j = 0; j < n; j++\) {       if\(!completed[j]\) {         int dist = abs\(head - req[j]\);         if\(dist < min\) {           min = dist;           index = j; }  } }     seek += min;     head = req[index];     completed[index] = 1;  }   cout << "Total Seek Time \(SSTF\): " << seek;   return 0; })
-/Dest [9 0 R /Fit]
-/Parent 14 0 R
-/Prev 92 0 R
->>
-endobj
-94 0 obj
-<<
-/ca 1
-/BM /Normal
->>
-endobj
-95 0 obj
-<<
-/Type /ExtGState
-/ca 0.0
->>
-endobj
-96 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-97 0 obj
-<<
-/Length 2738
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 108 0 R
-/Font 109 0 R
->>
-/BBox [0 0 958 1709]
-/Group 110 0 R
-/Filter /FlateDecode
->>
-stream
-xœí]İo$·w^ıWĞ—+òHê0Ø±×IR ©Ñ‡¾) @Z4Mÿÿ‚’æÓ»ë±¤Ù³ÑC`ä|³KQ$ER?ıF÷ï[d¯¬vØÍcĞJ£r¡ûé—[yˆİßä?üúóíÇoT÷ón?~ËİİİÇïï¿{è°ûô©ëîo?şñ_ÿüóo¿ş÷§ßº»»üwıÓíÇGİwO¿¥(åÔ1håLGØ=ır{‡Ôã§îé·
-4!«:ìş¶x‚Å üğ ,bDôŒèC@¼×ùÿ&~ÉXpÖX6ã—:>8>İ¿ÂØ1gMˆ‡{#+:b0qlzäü¼G|x!BÖ+ĞZ)F}DY™À½Fz¤Rİ”NºE=dÌA¿ƒFDÊº¦aâò±ßÜvò¹¤oTƒHÁÌpÁ l©‚Úf“bi }ªgŞÉêê¤Zõ©?”nüc}™Ö‘w&KúpóÕï‹ä8P…Èe‚È‚6ŠFa›ë)^%6cìöHı$ÒHıIbFb#Ç¬ó`•·GaÃ—Ç@z8-D<Ø¯ô…lT@»ĞpX5Ñå§Óªv ØËì‡‘U®P‡UeÉ£œ
-ç8?ÉºK†»Èê>J¢àôsi–í<x+–Yg;^‡jz]¦Ü ’ã¢;®õˆu6v¢ë&>mè`óg§IäûòÜÆA£œJ²vwPNè„©r cÑh·øp‰·²š¹b¦
-ÖWy)è™ukì›ªv'ÙMe;ìT?c‘•ê)-bÂğ,Š!)¯H´ÊïbƒùyŸ~úÃÅh>•Iã÷ëlHh›1Ë{3ydV[Â²=;QZ†?oÎ3u…€h*Ïe–7àFÃW‹3M}X63òCË0ÉÚŒD³ê¿_Êš†r ¢ó¯Œö9¶]IŞU²ZZÛ³ÚÌD¼“P~©ñk‘ó4·µq’wy_‰Ñ¬ùÑXD“öJi«}îŸ?ÜüxóÕÍïn¾¾ù±L/ìÈ´-ŒYŞåœN}ÎÊ2Eñ´¬ÎaG:L]ş~øSsN„:u®g|ÖÆG’U5øÀfZÓ9“ÇŒm\'“¼Í{©aŸÌàĞ¯§OH„¬&<Ñ'Ğ©ıM¹œok‡$ï³w]Ù¾ÎI3¢^kŞ1-wm×Bãò>wy(FÈ°mÏò*€ÁIe\kV§¡
-¬ÀA£‚— ¥AÇvğÒ1Uêsƒ¥ÁR =6X1®Ëã”I7´+HİdÛ4\{¿Wù}-âóúpe»‹A’ØŠ¨eŒsYj•Ó#‚9j=qPÉ+C)³`Œ7s}k®—H K#)ùvŞH"‚3nÁ_j$+œª–Å°ÑŠ7ÀyÉ'ùŞ²ÇUËT´
-fÚµLHÑ·yÇ,ëc[Ïhq.y”—ö§¯	å^?åàAR›¿¸-mÔW°åkØ-"sœV,ƒQJrĞ³s*1ÔÁ"õ÷eóòrj›M¯l
-aJjÃ$ŠÕÂİ>å1‰]åÛ«S[ EÙ¿¸<~Ù3xPdõ´eOA=ÛğŸƒ|L*ŞÖ i¿¦SÖ<3ÏœdÖ ÌĞWŠóÑäs²¼rˆÏ`õZÖ›Q P^;·-¥õ…"Eì÷é(’Ø¼
-eşøµÑ«Î
-”C×õªæ¬Ù
-^Pb, .¤v9 ¾ fËSDh»ÑÎò¶€T²@• *Ş³oP©DÄh6·,o#@%Ó[Á)"G³üÁ)•è"íì9ĞOö§lKpJ%jJ;;ŒT—÷
-NÙk‚S*oÚ™"ò¼3pJ-h7,QÍ*À©µfÀ©QÁ÷ N©o¦Yç”Å¾Š5¯Cr.4ô!µLÆC5<µL‡…iÈ³‹¯µÍ‚²ÒÎ6#{å½wjÅ2iemÒ ¸;¥báFİ€ r² '6LèÎn‚îÂ²ÕŞº“mëĞ]–ßº;­j!p‡Ê¨Ş)x9#Y^“œ‡Œ4ËJÌà¼›­YIJq?$| mä`bÄ
-WtWÅÂ¼óá«…m˜;Q ^6ù2ùˆ›sºõ€ìÔ¬IÎ¬„>õŒ ´KDLâM­DtÊ~çt-F£µİM½Øé§QÂÏb[­¸Ga€'—X\±V™VF˜˜2ÕUïœŠÕ±4S³éÉÆ_ŒXøÒ×å9aÅjFfPùAH›üûüøD)p.ppW8>Ñ+vPs;l¡ ¬!ğnQPß¬ş²“}>´Y”Çİ`t½"4µÊt®¶±‡˜ĞÛ*hÒÛE£‚_pş:œ¿¦ÕhÌæÊò¶`ü.Ü¬7#WúÃÍ·7¹ùkÔƒ5§™B3Øß4¦leyaÿ<cë r½—›ÌdUÃ€^…«ûFÌŒ|UùVAu“ ×ò$À¬¸LÕ¡61™ŞéI€»æI€Y±ªÍ?RŞÛI€Y’ª-1PªOÖšUuªÑfTïíŸ›ô†tÉKD9g6Ø–3ó'°ò|¡0è–µ¼='©àjæS¬²_Îbßİ±Ş_[¦4,`„àG“/uìÌ¢Y«i–ßî˜Àm8& Xñ_>&¨²á¢U[ndeeÉœ˜ÖœªªÜpE¨ş¹?G¨Ş‰×@EYX6ŠsÈÈ¯7ÊÂLnAiIØML^‰í›¬ù2í°ı¥®…‹ÂçW‘ëÃÎ®Øf*V»û‚İé'V‰97Raá’÷®“×FÓTd]»â´µù,¿1ÆŸİo”1ºEj.˜jjÿû·’5?/ğnWŒ¿æQ22 ß7ğ>ì1¬e”™ŠÊ«Ún¼]ñ[%ìNXÉ¯,'Ï™¥f_°øÏÊ¹·i›YŞ<^^_Î½sˆ––—EØâ«úìŠéX=¡-·„ˆ»Ì)§ÇÀ*ÂN³òÚ®ÂDßmQÁX ğl—·ÑT£Ü¾%ÊmWdÍj÷îÀÒ¼.Êí¯‰rÛÆey›Ãá>Òñà*/?jÿÆÓäÇR“¹Æ×eyïğ`À­(pÕ–˜¨o•KÍ
-›.¼ÒëíŸ`çöáşe±Ûß˜×¡jY°nñ2¸Tİ¦.ÀÆk¤ò=¥?—*´ÜÅ¬ô m—,*¼°ù0‹•ŞC.+Îé@&+)G6æs»[—(çn'°Šå†™W;Ç×€`¹V±ò¡QµVG~ÓQUègŞÛï·30ËoñFÁ\ÕÚEFµŞĞ- îe®í‰M¥Šüê_¾$€ï\Ms+>ÚNvï;S•8 Î˜g­[ØÊàòg®÷jk¤<Êk¯J©@ü™k»Zå°,_<:œj„é>_Â¨êîïö¦±NÎ¥´Ù —,&r¢g`~q1JêÕò–¡˜¯b=¤“âÜÌ
-gH£UÓ¤j"hŸ{Î²Ø/7Ûü?Ülã•Û%†’Ø/({åÍ6…Íç K­½[XS„"€ŠÔäÖrî‚Q âŞ£‘nÖÀ2àÎŠue‘ÅJ'[ZVlÊ¦i`2ÍŸ¢4‘ø?·g%#
-endstream
-endobj
-98 0 obj
-<<
-/Length 2537
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 111 0 R
-/Font 112 0 R
->>
-/BBox [0 0 801 1685]
-/Group 113 0 R
-/Filter /FlateDecode
->>
-stream
-xœİ\[o,·N^ı+æ1}(Mê.À8À½Nû mıR4@´hšşÿ‚5£™½ZRÎ9ğÃÂëYŠ¤¨×Ùÿ<( K
-•ŸpÂiıt¤•V“È­§Ÿ~yà›púë÷òæ×Ÿ¿×ÓÏÿ}xü“šxşóËDÓ§OÓüòüğøã¿ÿõ·ß~ıßO¿MOOòÙüöğøj&RÓÛ?(Qù#Md#uÊN„ÓÛ/OH3~šŞşù Á’uzÂéíïùb8"…ølç9ß¨@ã+7bŒˆ/üzI7ß?¼‡)œ”f¯ˆ‡ç¼^xEœˆÇˆm^	éUÉ=3/‰x4¼|Z:¸s¼%Ò+µò§Mæ/ñÂk&ñ”ùÍËdu¼ ¾¸üË!¼¿‰"Ê®ŒZ¤ƒkeĞ8a03–@°1:ŒfYäXØ5™5ƒæˆ4²ze›˜°™øî›o¿ùöM$,„ˆlœ™Òıâ°îVÑ:ôèq”şó%’T:,b‰1J)gwí%[>[b±,şŒe/'•OK²6·†ÒJŒ‰Ô
-‘bÚüe^DÌµA™ARf¦ô”.ÒËî3$Là÷Ï‘âb3Î€7;“)º5Ö£¦+§™WHÇä¸»6#ô‰~#‚K¸zM½òvá¶ÃV£¥ŞL)©·R`7„Š¥ıÉ¯õ¤6KLèF‰,¤¾>“’ãª «I_<ûr£V`LT—+£dhDÃ€]H	›­¤ÃIq!Õ„âÙÇf×å¡††°dñ_§6À0Î¿
-ŒÔ^[¾C/¢®²
-D2¸2‡¯Ù4xö#Åùó)F‘åblÖº†öBên÷F_4¿Hds”÷&¿¯Â„¢Ë›÷ıš HÚyõ.ınI¶[µ÷Bê.«¨¼6«Î‹®‹]Šn4âõæ”(]Îx}$Œk™ô…SÑ¬&7ÎE¸w¸šä+Wá]àÜû\f)>† VDÙc‚¨Ryğ
-=ê«º7«!:¨P9—"±ßòîH,üö:?Î¡dRŒZtkUTÑ­1å‰¼C" ¥DR„ñOø&ŞÖcÆ]¢ä¶×dë% Y®ÑqÎ¯¹İ‚ãê¾ÚD>C’Ğª¡9\ÖP¹¶hh{m€†®®¦SK^¢v!y#.¹ähxãÒ³ˆ}H¯hÒ©ø¥‹µÔ´2ñ]«4\êBê³ƒz†ß5Ş«àØğŞêH_
-•ÇBêÁ±²cáXè}$8vãá8“¼&nbøÁ0ìÇÁ°ï	¸%ÅØäw&v9o‰]ğõ—G$|*Œåğ¥#m§˜•¼9S´ÙÜLØgâ­å›îÛ¨×ì…ı8ö3©jšÆÂ¾Ğ»`fí)°¨ßkƒpOçfÜ³Rmá§tüÒëLı ‚El\?Ğ¹Õ7Dú¥kxw«–ørYª}ks›pˆpkÇñƒzº4›; œ'v´Bª<Fû…±®¤TNz\×VH%#¸|*Ïšµ6ï	Ls«ıFû|@+ß}n6ô¥›:ÔXúÅø¶Ÿb;ƒœò¸–§ºr¾Ë ö}ÃşŞ›¹·O™ø+Íÿ7áu‰Ydíuû(	İ"F‡İšqmH!ÅZ•#Ç/ÙÅÔ‡[|eà'nò<*ä(Å }ˆ”³-ıšŸ«3,Áeëp/^IÁ4.T‘‘ S
-$Å0Ó¬”|Î,Ÿ™Pğ¸[åêÈ2R"VÇÆÄJ²S¸sÀÌUÉe{BiÆõm…Ôİ¡K[º)¸ÏÈ.¢$ëÁDa°í¶Øà’ß:~S.ğçÜäYÔŠ«›”ï:3ËŒI©9„hŞq&TÅ†Œûem<ÕÚJ¹†¯i)Aê?®ulŞÛ:®@µdÙœõ+h{&XZ°­­­áûğ~ùä­¯¢ÎÊ7ã×h°; gÄ4opU)9…‡æ×»R·æVK$•ZbWN³¢+¨ËÇÉ9tÕk•è$<ÛiÍ°æ$t:£5ÍGYÇ°˜ kŞ}AT)dpØÆ5È…—'ØSJ¬(¼§ØñŒ};µŞ%îûÔ®ÕT=æ¡w1dÈ»¬Áj­ªVü*ırê–4¡`9GÕlÂc†=Ø(p§&ß/Tæl¹ªBÑnùßÇˆö z)FˆCÊdXïàæ¸Ğû
-Ë½öoÇ7É…¤8×ƒÎsã‡p=b^r¥~‘ªÆx¿XŠÏ*÷§…ìİ1'|í	­zÙ#…XúÚwò˜úO÷†VçAúˆ`²§Ú[c}_2¿-Êì¶ªõ»‹òí•»ëBÑ–¶ rkPè‹w[S€ìÍ¶İ³äæ®3p¦c<â”®qG‘ÁV]ß‘¬•ğÆ«SX×»O–/ß­4m2„ ~C­knt‰¡³‰)ÊáJìj”.áı.—7
-bDµ2]”8­ŒÍSµÁ‡cXé‹_OvnF~å<[ @kqÛnx¾JàiÛç«%˜ã,õ…Š¦1'êÙÀfİWìáºÿ=ZÚó¯;_ñºóˆê¹£ß×‡ı®™•ì.çªÆ:¯ĞxW›$·Ã9¹ªÿ=Ú¨„v÷fM¤GbOë8ÆCÌ>çV™·ŒÈ p™OŸª*zò<ÒÕBdùöåbdóîTıùá»³4ì;j°û‚ğ¹§Ÿ¼I5@¬|×Ldëî°æªå?\_ÕÀÍük™Ê¬†ØE|»òPùîk¼_*ï²jpJ…lG¼¬¤“Á6æŒ…\+êgÎ"œrÖÆ•S >«Ÿ-œ\õ`ôˆ"–Ğ»åUR“Xòßâ@êÇ‰êz`ùm…ò[œ–â.ÿeÛ~mÎû]ÕÇ¢€ÍsÇÛÂTñQ³»tp3|Õ-Tp’ïœ‹µ9Btv£¯¯Ëfd¥xpÚù*"O.ºªb–HÁ(Dr…˜@éM1×I™¤ši¬ı§v@´i­Ü9°ëómš;'w>qv‘ŸÙî0õ¥‡qØà’6B¨ íœîğÕHÃ(›YF®şŒë7ggë$jNGÚdq!=â¼¨±ä€Àƒ
-µ4Ípl™P¨ykã+"¤@°Ÿ+œü¸i!uşoÈmÒÔÎşsy?n\@H}q€­±“TˆJçGÎ bt`”ß><}%évÛ¡J^rhµŠ¬5ş~«¨2sV1èG(ü¸!õ6ıš•S5õGTBïÎ_G±Y‹6 ™`ÖBÂ2Y)nCm½Qª-³®Ëñƒ—~Ü3êBêsÎpÆtK,XñŸ‹‘¿o“‡4cmJZ.*ßû—DIş‚ån
-endstream
-endobj
-99 0 obj
-<<
-/Length 1895
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 114 0 R
-/Font 115 0 R
->>
-/BBox [0 0 730 1681]
-/Group 116 0 R
-/Filter /FlateDecode
->>
-stream
-xœİ[ÛnÜ6m^÷+ô˜>t<3¼‹ «½´}H¶şƒP -š¦ÿ_Q”ì]ïJt’úÁğÚÒæz†œCı½a0Ğ°ê°Ãnü,y£]§ ƒcË¡{÷aoÂî—ïåÃÇ÷›»ïU÷şŸÍİÔm·wo÷?:îŞ¼éúÃ~s÷Ó_şúéã¿ï>uÛ­ü¯¿ßÜtGÜİÿ¾¡$å;êˆˆMGØİØl‘z|Óİÿ±Q 	ÉØ¨Şıo“!XÊ0Ä=çÏıqß#úbß§/ï7Ç··¨…³(´;!îöˆ{#"ˆÇ0>	éÄrOx8 5â!¤G{Êkgí¨¯èº×H'ZªŸÒY¿¤K|æ ãN'²¾ù1é‘ñƒÍÿ‹vˆî¢oRƒH›Ú±´³KÔVÌŠå ˜>]rÔÕY51ƒú€Ôï–FĞ`3+ëñú›Wß.4ÄøÛ‰^ZáA'5‘ÂS+†ZS.¥]ü¼ˆŠrVƒÓ3İÒ^‡Š&¹xcÂÄ'¤Hg×zÄ’„±%¹‚5¶J™¡îJÂÊgÚ™¢í
-§øT—¯¿yµ4 |À¨s–”Ü»Lb0AC	¦øäŸ1%[t+‹³¤¯/¡)‚6Š
-ä—,T•ƒÖ)”k<‹öœ"ÛÖ©Gh[EBD‰êgóf|ùfêÒm<öÉº{Î)ÃÀ6˜*eâ—†æ™ÿ ¿òYçÏ¨JX^“nš.^º³¤ÎQ?-P4ó”RÁæœr–[p<…¹¡QEûR?[C˜=ayğ6^u]ÙS/…[•¿³à™¹ZÂ\Uş˜İÊ.xÏã‚íLf°ÇèPËŒ$UÓ
-”g_F^wå/v©îÅ ÒŠ¾kA7kF"*V˜ßìriq#$ŠQl!†UoŠa=òoJp2½&¡—U®Ñ±Ï?ın±sL³¾%¢¶ËWƒ«*II©åŠ1ƒÊ‹Ë¢YÃ°õş|Ø†k%lÓk-ÂfmË)òRìn/t¼Ã9ÚMQèaãˆ¹;à|tÈ&åÁV$2iVãÌRı~q¨\»ŸE}öarh8ÎœôT/Ÿ· ‹@j²»şÜ- ´ëÓYÔjŒÍú£ˆª`DœDÄñ&õE\&İqEŞšniA+W$½nÑ)‹Vñ_ÖöÁYe_µ¶oŠùìÁ71”~$"«AŸ¹Ù&TD}ÁM•»j¿U·í!®¡àæ	‚Lf-Ã„Xm:«f][D}¹1½ÖM³v*¢®^x&•¡2´.''¨$ZSò¶]Í¢®äœäœ¶Úó¼Â¾ŸL<’¥e®"‹øø#×ÒÌ¯0{a.ÂtF³¢¶\³=§ˆºÌH	úìF%<Ú¸$(®°dÁ•†Ì°û‰©ƒù©@YG¾¢»Âbïøv­#‹zIÈÚÁrU!ÏPFB¤Ÿ-#ÚeÚåÁ[RÕí+€&•yÛ^Q/hû£2‡ÜÄ9üpûsHË"qªuàƒ×}>€Pu-’"sÓMìVÏ€Âòû[?‘[ÎÁ7Tµ=×5³ñ
-ŒR\MÈ‡umÌ‚ut½Ê4w[
-cÏHìnB™ UÜ9®×,SÜÖÕï±S™—o¶_yO_æÇ
-[GŒ•q¡°[\‘îM,ó—õIßÄCU?âı>a~vÈõØ?Oo\\ÊŸM“åNĞ?¾ÒNÎ•ˆÈz÷<Fd^G¡f#‚â‡a>,ƒ¤5œ*~}½É±=W¹öB)éŠËné¨×~´FdÒÃzNÜ8I&õ:Şk`•&¤çÖñÃr…Ó*n¹‘ãèÜEvå¹[*HÒÒ1Ì†íÑ´m p°É…¶FJªÄã\iu5Z&«úõëbç!Ê‰»š÷0$‹!+–ëzÆø¶*Ïéœ–ååD[S0ÚÒŒ}yÄ“®¸Ëæ3™·Ï@jàMF<F.áò¡²Çy"\¹Û5ÉÙÚ‹"{{ûv¿İ2ÇÌèÉ¦öRpÑÖç¡‘C0×•(-ŒøZ¿p)Ë\^,k×+¨,„¹†‹Ï·ğ“K°« rÇòÿÜô!×_‘híˆ1ÕvläÇá=F&IÖù5“üÿçyÅ´#ÅDÔ™1Óeõ]i(MÏ°
-4íx/u+Õıt8‰l|MÊVs—øA*4ÙKl€|<Ü^n:d½úöó¿AaÚ‘d"êrL;LDÉ¨ÕüF+ÖÌÏ0¿1Öbˆ%òfüSïHÉXN{Ôåxº8ûB!ë«ÄVÌV£a–ˆ|ò•ÅÏ³ÈÁÎ¶ã§DÔl³w¥™rÜŸ¾2Ù.Çm;nJDİ˜Ş:¾’)÷_Ó_ñõ[)’×«ƒ¯›ˆºÔÕ¢•Ñ#ùÖx'ƒû2ŒŸf*üœ¤E‰ÿäâ
-endstream
-endobj
-100 0 obj
-<<
-/Length 2339
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 117 0 R
-/Font 118 0 R
->>
-/BBox [0 0 671 1572]
-/Group 119 0 R
-/Filter /FlateDecode
->>
-stream
-xœİ[[¯ä¶Şôq~…Ó‡òº,0KÚ‡h{şAŠ(¹ôÿ’([öØ3KgScÏ{iŠwò£>@o
-ßa‡]ù/(¼"ç»ï~8„›Øıışá—ïoßÈîû_oİñøöíù/—NvŸ?wıå|xûëO?şã·_şóİoİñÈ¿ëßo7Õ‘èŞÿu HåOÔ‘4à„#¡;Âîı‡Ã©ÇÏİû¿!i#;ìŞÿ™n º+âÕ#z®[¾¾®ß¾òbì„à÷nˆ§3âY#ºb_¾Â#"!İ?Ó#^.ˆW…xññÕÎ€tÊ“ùŒÿÉ	Ä³BºÑ^ş¤z‘¿pï¬Â«_
-d’læ+0}ò5<)“xŠïrÈ|Tä#ñ˜yÏ\Lú]àùeF6ˆ$Lzt2{Ô•”˜/ÿ/ÇkbPfh0,BêwÛ’¶ûõ§¯>}õÇ]$48Fh¦tÌ’MBĞŞôj¢Ê,ÇÓ9üŸ‚Ÿ,m±BœN´:W¢tL® „ÀûIŞ$(IFÑÄ›êNá³'õç2„æ%İ$_|„zÔŸjMÈµÒ	“zé@Aáï}ˆ¿ˆú41B+€ˆ¤p…
-ãÆXoÜpƒŠ°Q£ÙÌı˜Ô‘£iŸ‚ DÙiÃÏgH~›Q`ÕLjñ†§´E95è ºpğ=ã½ÃCñÕl@ÙMÖä¿<D3w£hyáí&HÃ#£pÌ^·t ÒêEÃ«ƒÇjd¢MÓIR©Q¤jo˜+2§©¨Ät½bÑ„ä¼ÒC-R‘H«fM¤¾˜Å1†7Äèv]µŒhcÓ=‚Ñ×Ò¸s5+„Ëğs+K2¦™€©g–TÁl» Hm¯ F=	érê‘¢¨¿p:»VØ·‹Ù‰Ôó€Rb¤¶j·§Û'!’lòšñ|,k­ÏP8õÑ23«~RXUz˜Àf±šI“•,-¼ğf,c98ÇìUØµ0àIPQïf³•_oœ¨T8ìôŞM”¾;Ü£kŸ®ş´[84Æ÷ı"Ê&ÀôÄ Â0•mû©+‡×¹²Íb-“:®öh1åÌÏG!JFáH£ÅèQùáª<§l¤™Ô³aG6ÖØaŸ¹?Ea¸r{ªq"PöTÎ©I\çjE¢»¤›Åt&µ9‹-™Ù G|V†yÓœÀ'ªò¸0í‚¢);æU“ÏV-ï2ƒ%pŠ¬·w- Ÿukõë$h'ıÔ|j„d›¿Lj³"ËÚ€60ó…¯xP"¤ÓE_$WN–*…áÚÏDê0ÖÎ<„wmÓ©±FN¶AŒÓZÙÔ%C´r]èÁ‡wMúÅ8°mkd˜7
-ÓÛ”“ä˜—øPCî	¹‰¥ =HaÈÕq.>ÊæƒRÃdXıâb·ĞNŠVÀ[HÚl!2…8‡/<èô@Şª´¥ì|Eí'=¨0—1›k¿ı…®L(Å ¾
-Z0ÉãXË‚Bmê$uºgª</Á ílf€U–†ãe±—ÉÉ.º­ÅŸœ&$ÍAƒüJËÔˆ*2íD5 <ír\ïÖs\¾—İlcI¤!Ô^[×)Õ†ÙQèS+´›sAFø‚TrK¤Qçdnd²ÇœÀúÊSï,ê2,Ë[ıvİ-A'šKĞ=Ë*Öh +e}˜E{ïPİ×õ¬’İ†Ù@öõK-ilmÖ¹¤ëYG^œ#u(Q€[*ï.’ À‰‚÷+YHĞ2Ô*Löqû±9f á¤@9‰+fÂ™(±´»e§}9ş>uÌÌ«"#í€*˜ìPxğ'bú›HU`Â-e:àÃ;mÉ0!åª%[jTŒ©ümyöŞ8Z"pE§ì%§xNûÔŸwR5OPLrKŠP*ïD	€<¬@ÛÎU¢¶’Ê€¦†\x’¯¤ê\’—ëæ ğzF]¨ÄRK¹R	H-'!îÕJ A^VLÛÒyGÈv»æ4‰ÑjDÏBxVºh¨T·”Ø€oÀPVDÔlób²}}µs_Bş32;{Ó8{äõ<†wö­ ›ïÿì µ¾ÎÔ÷XóİNÄÔaµeïkâ(Ñ=4­âOxvoSo{¹1õ¹=H:ÚM1ï-c6]Nê÷ra‘­€
-Fíên,ÔŒOlgo/ @ªû!?º@Š/&ûbğãlÈÊùz×ÓE¼èœ'‚C¿Ÿï>¡Ğx*[ß¸ª
-.ñ"œ¬”¤Hn;Ò‘çƒ”Œş–s¬
--î0Ñüş(MUÉÂ‚“§¥Ş>¿ÂIQ)¦Ômè,oépş €J*B†»ÆÆíúV]Àå-e0ÎGğ.Õ»ÓÃE)õû¡8­ºúëh²¤7Ö÷±e<È„
-Oe¼3ë@kÂvº€ÿ[@LoÚ²ÑÉ=î[ı|íù™4èvtõ7êW™äÿiİ®g¸u„0 Ø[óÀrí%É*^¼ŒŸóÔ0ÊX70"BnŸŒÄÏätcÓƒ±ÑíZll’s9<6Ù¦ˆĞ£,÷
-¼–$'¼íä‹0Gäj¾°3Å’Eåz“Ú2p{ö¡GQZ41’x3}·ûĞÅNDí¡‡uˆâÓ§­ËaiA”£R\`+«fZÙÅ2ºÛ“–$ªò#¥º=iSlHÔ
-sØŒø}¼Ú€ßmWÃLã]¦·ñc‚µ/I?6-šÙRE]‡Ô•1Ñ•Œ8[	•œ•3ºütçîôÚ»a}i¦-!.ì–˜İr[X”øT-·aUbAn¡	Íëùµqd¶£PmèÃ‚ÂV¤cTÓ^¤£bÑÌ, ø•µ3“Üèê<àÑ¬¬<ÜR‡®Ó»áåµzgzÌßJìæo{®T“Ü¤˜ÜÍ‰B)_úCäÀ‚Ÿ}ßµR¬V4{­^©Ôh]­Ô­Ÿ-/°j±iÛî£]&õÌ©†êÏ2Ö-;g8\
-æ…<ş©ŠÿDc±K
-endstream
-endobj
-101 0 obj
-<<
-/Length 1648
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 120 0 R
-/Font 121 0 R
->>
-/BBox [0 0 549 1658]
-/Group 122 0 R
-/Filter /FlateDecode
->>
-stream
-xœåZÛÛ6M^ızlJÏğNÀX@ò%íÃhë(¶HĞiÑíöÿ‹!GeËÛ]‘ŞMÒ#YK>œ3‡gø×J
-e5J¥h ÿNKôÎ4NheÀxÛÜ}ZÑ[Ğüôÿsÿqµ~§š¯Ößc³Ù¬o·?ìİÜÜ4İn»Z¿ÿóŸîÿ¹{h6ş®;®Öİ lVQ¾£šã§Õ°ƒ›æøûj\íoŸ¡…Õ`¥a¤oŞ¼}óöÛEHÂ(F›”Ğh,yëøkz Ğív`–”<N{ h· [à	z ‚ğ ùy°Ûì5‡õJh­”	½môğ`«¸Ô6¥“mÑ³·¯Õ €lk&Iïìlú8Ğwô^²7š¨„4£¡°µKÔ–L†¥@˜,=²ïÍÕÉ4¦] ìÚ¥ƒßGENğCÎm Âì
-/¤UÖÉá¥Vq¬yğ&(?Ä9|g» @Ô€İ~@RN˜ ÜèÖVÅ¸Lï³IAĞ’îOĞeĞĞÊ-”ÒäæXÊ
-…`´›KĞ*Àı¾?ĞR(oİè~\)¼Ÿ<ˆqÓ{Q0––vnã–Ä+MFøNBb³û¸:`ü¤¹^l¤—µŒLHc|iadÁNI…æ8LÂXZP"œ‡q»Íç!ıM*Qæç]útmúÍœ‹8¨ãû1~»+èZîJHæ”{¹‘¶–•õ"³šHŸÎêb' ¯æ<KÂcæ‚Š(uœ)½ğ
-À©‹)ª1•T(œÉ—ñæÓï„P?G€€İv±ıºZ–a¨WL3‹`ªå†ÊÒïoúPM—‚49*éq¨)ãKTlQaE¥Ñş¿Ò)=–5TÊÄt—"¤ Š­­Å	¯j(t~
-ôw›âóòPp¾®'Ü\•H6GâY²"ûûµMÓ~º3p
-ÓUÀË	¦• ó0Ë6‰üÖ¤hã©Y¤ÆTUNE*>è1ì…Œ›ÍJNÑx^?9c”pC}n	ö¿ÖáiÆIGK>~$–€ñÈ‘“[F(¸~=Œ°Û–î}RÖÍzŒ·™¬qlıà}"¨ Íå|¿|‘KU7q1Şs·töc…¢Â9Mšê™‹!¯³5™knMÒ^'ÿ%ØiÔ>š‰ÚÜó|îÓ5§ &œ®	òiâCù>æmu	r*üœÍÇ\UQ@#øê4ä…­xN6_Îˆàu.‚•mÉ*Ó’+ñcÈM&‘F“6Âº(Õçæ.<Ã ˜Z¹xk5VÈJFY)¢´Yn4*©í5zÕçŞÇ)ä2}¶À¤=Æ pÒfÍƒ$C³ôª„*;öº¹äºÁ
-©@[ï'¿§c—€Êµ]ª†hQĞ¿ÛÔ1ˆ¹º¶‚µ:Uü64¸y¡…—’œ3aOœb×‹#âtYñˆ¶´÷¿}øåî¡éna’Tûs&YË<¿‡5Ò»—ûFü v)F‘?%7;M~éŒ¿xŞê	İõ™6ª…ûsíT©AT~V1_E¯ê´¹TÔ<Äj24C]¥¤3…¹ÔÌA\şšAº¤ÍPWiéz¢3C½b+èI½z2ZaóEg²u©¯ X¿LóBgŠu©2±z™9´£eH…j””‚Ú#¹eµSIJÂ«·Sô‰à^ªÅ1ŞØN13š}á!š!7%”IØ8+”³áU¶¦&9ÑúK£ƒñ^Gv6•5tÆ+—Ó:QB¡ÏÎãµ£`|ğÙêW–¶Yí³V¶IjkPÊ¬´™é¾Æ"éÕû//cÔ—üòù=Ø~ÂtÛmt^œğ×Qò–yÖUİÍŒê^hv|Ë˜±ysg© %oæx¦t‚©ÕÂ©¨O-ãàT*wÚ$İ²¾FPŒ­'	%Î…ÆÌ4jÏJgÄ!–z\`}¹nZ€w]Œegµ–c/(vˆ[^ìdKË;Ák®+hl¦­Wœz†=ñ@œÉ±„“^Xmuv£ß¶¦5Ó¼kòéõïìÆbŸğ0r8'ÓwÙä¤›ò×‰Ñáşü–Óö¥×5l&İWªòEû¦6ÓäkÑp—ûŠÕ¼_ï::Cı?Zg¶Ş½t†*k-ìèáB<Fd±ôãĞ„ûü"ŸÇ
-endstream
-endobj
-102 0 obj
-<<
-/Length 1568
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 123 0 R
-/Font 124 0 R
->>
-/BBox [0 0 451 975]
-/Group 125 0 R
-/Filter /FlateDecode
->>
-stream
-xœİZKoä6î^çŞ»»‡*¤Şìy,zHÑGş@‘b-°-š¦ÿ¿HÙ²gM¬Ù¶ØÃ`’±E“ŸÈé?7(œ²ÎZÙAİôŸPÒ{ã´ìPx#­Eì>mâMĞıøÿxü¸¹y¯ºmn¾ï¶Û›»İ·ûÎv··İ°ßmn¾ûã÷Ÿÿ~xê¶[şm¸ßÜu‡²»ÿ°Á$äìP¢@ïLúıÓf8ÀmwÿÛF	€Æªºû_è@¯ ú]üN7¡Ái!ß»!]8Üow»ô)ôs¯×:­Y±şHÏŞ  ‡ @ €€GÉ÷ û=ÀAìCRÉ[¡¼vÖºÆE^ì4à_ĞÛ¯ÑÛétŒºdİ{t%;èñI•xÏŞÒoÑ>¶‰í ¼Q	i&`o_P<¬QÜYVœ¦ƒ0!Xz|ø!›¡Ie6‡ 8ô€Ã©'ôO¿~øùá©î|Høö«7ïŠå…M¯7JŠ`JÃÂ/¶-oGOğK/œbJÚï‡= @Ô€Ã0oqv?#…
-ÇÅÅŞ“ RGiám@=Ş8IµëEğH±R–~¹¿˜ÂÕ©¬’~4¹fœ€HKó–LFJHÀû—ÆğKTA"ñp¤ïˆêjD¥® *[%éQÿ#QY´!ë”Dsñï] À0¢nµHl\‚.háµ™9_òÜ0Q|BŠäÃâÚ@^|f3B8·1z3ª·bˆUÄ$!ÎÌœà¥Ïäªkõ7¶¢¿nÑŸ¤ÿk.²Øze„Óı°S²"¶C-¬Ñ2Ø0»#—(4† q~5¯Eá0EòìjNûó´H*©5:ió’4½Ôû‚[š¼ÒÕ²“iÙU’¾ÒÂÈ0C161aŒV1ZPbQˆeº7ÒŞüû
-ûûx}†~%Z¾–xlZ$½ÃÏ5Vx”;›Ã“Ñ-™VB-/¸ƒYúÿ./UwÂgÍº‹
-÷*¹AÊZnğ-0“ôŠ_õªAUË¡E’^;ÊeH¼¹#?ŠßqÃb½cH€öÂ )«LÂÅÖc
-¬êÖ“ÃM\p,ŸÖœÑÀ1S¿}óõ»uèš
-GË–KÿÏ8šüîz-m…£eËá€¥og„^ĞÑâ(”yx
-{‰‘Ái)§ãQC•&}…°eK!ÏÒ/>åp¤Å®€Îä ØûëcTˆT¶Ù,ı‹)gVh[¶”ô,=²s¤g¤œŠ†I¨¤Ç‘ÒÇr ûOÒ¸(¢Á,î¢äÈÎ1öVû‘ªQnKYÌÒ/Ih)cníÅ!CI=Ë³¡3Â£'•$,£C¡(õ¹ãMï#?)Ç­^¯õ,n£ã¹e¿k]#ì–¢š¥_5fÿ|ÌækçÒÛà¯³¶Fğ-9K/b–À™R^êºœeÊ‹Æ)oŒİSoúôä¼8¿¬FË×òAKaÍÒK´¸ ø/£³|êOÍÿÄZ_æsˆhí²7•zàÀ	cØ­„+ÔBKÏÒ/¡½Ó>µºh!õznÏ(7|Ş*]‡‡¦!Òóx¨–Ê›¥ogA†½Ÿ¬
-"¨ Í³^ç´á+gZV¸WµË,}E±¼¬Zv9ıIE½ô­ÄçéŠhá½€ZK‘ÍÒ·gF`ìCºgËç)‹Íj'Œ4*àéBâ®tì`’0uBÖ£DÃPj©ÅYúö”+@tËFíÅ#•1A¯6ÛU8TµÕ,ıÂ–[m¬p±‹5%EÌÁçínéÚTµÓ,ı‹)ğLm¸©ZÊa–^÷ŸÙ¨WíËqæ‹ÅŞÒ	[İÇÔf“ª¥âeé ’g6‘T){\§è2µÁ j©QYúe„Ás& KoX/Ôü„˜ğùo(î”©S>/Á˜•#ñ¦·ÔI	—©Ù
-©@Ûb·œvsÏuËì]å.-²7Â8çPë²ÁÜi_óÖ‰9;/]nmK=ÍO˜Ñ¹”²VDc#ré•öß¡-üör=,æ&ú©©?ŒÆş=7
-endstream
-endobj
-103 0 obj
-<<
-/Length 1586
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 126 0 R
-/Font 127 0 R
->>
-/BBox [0 0 578 781]
-/Group 128 0 R
-/Filter /FlateDecode
->>
-stream
-xœÍZÉÜFµ¯ı:&‡pÈ*«
- õbäà Ëü@àÀF8A&“ÿj‘º¤V·¶¶‘CÃí–†E>>®Òß;«ÅŠ¨
-+¬ÎÿQ¦RÀ
-w\}ø¼×±úù]şòòi÷ğNWŸşÙ=üX=>>¼ß¨«§§ª9ìw?üõç/¯/ÿ~x­óoÍóîáÄ©êùã¢”ï¨"
-§²¶&^ù¼{Djğ©zşc§	Éˆ®°zş-]@lˆû&Ş@Œ"vÌíX3b½Gt'D§ÒİHˆÇü{ø~ÄÚG	Æ€µF{êœÄÃa($Ş||Şßïã§4š–•rÙÖú”ÎÚ›t^Pøè½Aô>*L'•ïÉºcÉ ' [‘Î€ğGAé=#è–âjâÌIñ¨dTP> Ğ†¤ó£.á€xø-˜Ê†$?’eÎ¤Zni®×h.˜5O§“Œ÷‚şÌ ck'³}Ôx¤¦¾¥¯ÑÊJKú¦”=_ƒXrÖdIß¼yûæí·«$0BÜ·*ÍªHÖÜE•©m:
-†ä6‡Vªx«Î§–k-¯êÄ#eCÊèƒ©£„)«(Ş+r®¸)^±^Î¨¤t { „Ñ)7y`’ò¨B@g´¨IMãuıòúûÇ_?¼VÍûë4ñjÜ¹ıÌrúpƒË“ø`Å)¥™`nvpH?1…ï{H¾£…0X°"^`pl}ü¨ß´Ë—œ“Dé;#N_ŞHµét[/¡›X6 œåg„ÛœÑMŸ1\Œ€3>”Æ…|Ş€ƒâIì’ü¯Æ´2tİqp­A¬õ(òŞe’À÷ ã$ÈnÈIşÙF²šxP©û:YŒLá· a–•²a=q`•‰G”ÔS‘ì_ŒÎ1•¹‚Íac¹«^†qsÜ€³,·àlÿ§õ#¨0ğKT£ñˆ*ùÃh@f¯T÷Ç¹/apâ‰±_âÛ¶öVr‰îªc® &Ş—’Š'Z¹Î¦mIÄMV,C[|šä‡ØI@1å•—sñóH`ºï˜ğ¤ıE|å	Œ§ô/q°¿-3e,tœ@(şÚ-NOİtlÒ§©×Á®p²@µö,?Ië9!Õæ³<·´"bKôŠágËt_#Ç€vQİ(§‹¦iu.¨CÇ³bv+
-‰£Q>èmÜ¢:˜{Y X Â%P+‡Ä0dQjö+ƒIOÖÃ[‚)Éÿju©…•KXæªk«)72«Š‰·‰ïÓ‚*3İl(³ü‰@)ğb§zqp‡õÁ|dººn™³ü»v¦¬®Î:mÅ-·4:SvÄS}ÀñDˆ l¯F|ñyV¹ér½eÍòçoãÌ™îòàµîá¯„¾HR#cVI±¿›ãÃ—kò/î8“3²Ù2#gùÙqµN]ìp°P 1FfÇÙ©pÙHK(´ÅÓßÊvUÓt…İ2agùÛUuq7zg@N	I$4FÙÁaÕá4İta¡¨aAã¡aá¢Cëjˆkkí°ÓYÒ£j=^qŞ-sx>#ëÌMédÎÊ¥G×tŸ/Kèk8xŞ±€Ñ|®Ì7X-´¥ÏÏ‡ÌNë1s'˜É‚ÖÖ¹²\Ì©Ñƒ$DhÆ–‘‹æ‡Höà´.çÄºmÚ<iáYŞR›¼•YÔLÕ¾+ZÚ³Ñ€G“†ô¡Ö¥?ÁŠ«ó£>^á1½¼:'›‹ÖDôŸ¼[“õ|p8‹›¦ô|È¼±/oèÊ¸8cØ.Û¡\bZ»Ø±\xÒ‚âgÅåjx™åŞäƒtÈB°ë8hT©{ÁÁÈd†Ğf—“øÈÌé•I Í ó!Ì[9qÃéìåö>—e4xé½›3#ÏmØrz¥fÎPd“CÚwwf—®æ„Á;¼³á¦kÎx³*„–‹GWÖC£	'k!¬ïu÷ª|[œ˜^/šl’·ŒìÜ¾Â´º™­KhŒ¯é»@–@|àÚiUD¨ŠóLâ@³øæUÜU^<E)Lú©î?ü"„
-endstream
-endobj
-104 0 obj
-<<
-/Length 1615
-/Type /XObject
-/Subtype /Form
-/Resources <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/ExtGState 129 0 R
-/Font 130 0 R
->>
-/BBox [0 0 510 1702]
-/Group 131 0 R
-/Filter /FlateDecode
->>
-stream
-xœíZÛnÜ6u^÷+ô˜>”!‡7`@ÚKÚ‡hë\$h´hêşA%Q²Ö«egSäaáõJšËá™ápFo¤ KŞ’ª ‚ªÿO8­-Jç+)jRÕı§M¸	ª_Ş¦/Ÿ?nnßªêã?›ÛdµİŞ¾Ûı¸¯Œ«Ş¼©šınsûÓ_şúğùßû‡j»M¿5w›Û#U(«»Œb¾Ç
-A‰ÎêxáÓfØÀ›êî„€Úï~ã ÍÀk€z°ß4M¼ùp·9¼»D/TÒÍÑW+ÖU«xá-ğíM°È!ñ—CQ2­>²öpGöşàï 2İÓ0"Øûh”3B9²ÆtÖ†‡œØà—BgàBûÂµÕl	%JİÙŒ®}‰MÖ°MQÀ¡µ«¦hÛÈ®GÛÂ={Ã¿û’½	C^mT"3ÒkÀÚ,5Ğ'~'ÃXí½O$¢¹®Îl<`S3¤ËIYÿúæÕÍ«ïÉĞÂy0R·¢æ;ĞKßkßS±U”Ô94vjŒä'Öèè/kÚ&67Ì´ä]`ydzø¾ó è;L‰˜2rHâ´…ƒğÜû¯AC$Âat­áÌùšb]
-OZa—¾ø—ÒgÉaXëÎÔğ	&Ùôx¼øg¬$áŞFuÄœ?=»–;¢Í<Gd‰#¬dvÀ¤…E)ŒÓšŒ¯,6û”EÎ[9ÏyUâ<+y±èiÁóÂ!Gg£¢MıãëíÖæC¤¬#Ùºí!,Œs]ÉPOÎÍ[	*Y	V²íjZzé3~ÅR"ì7~ÀUi„G‰YñÓn
-kw8ò_¤ ÃğZZß©İ5<4üiêÅ•\°è’= i:“‹÷„5ÊX9·Áõ²¸•rfö5lIJ^,n»ªm—ŠÂW	¡²œ¨oÓW¿ùsá·È¶U6;©¦÷ˆ% ²¨34Z¯H’Z®f:‹š¿‰¥”>M3•%;ef&K[Bs­É²ô$ İIÓ%MÖ´=A†¦C‚b®P#œƒ›Qu„RXEÊê'³lS—PMAŸi—ÇPH’·ö°E£İFŒ‰U«gÙFœx·Ì3/Ûxé<Ãf·m\-Ñ&Q³v¯h®†AE÷úæ}´À4%æQää{“®Ñ74Œîí1¦ŠÔŠˆ¼ö ’sŒ"aŒ÷²/à.FLå~G{2²Ú«6×·TNJiô°Ÿ`ˆM—T-rÚˆ	rË¢™2t¾{—lrNº¾ÜˆŸTõ§¬~Â6· a •rpİí;åÍõõï¨íÿ^mÚñíà7‡×ÈIÔîàw“ÏÖq®¤‰””|kŞe¸sÇü<î%=¯¤äY›wÄõó”ô¯’’çjŞ¥§Ú*%¤Úâ´+n±mŞ8:‡ğ[§¨OL!YÒJJ¾uŸ\‰l¬ñäJè’•è&ÿ·Ã­Îg!4%‡Û¤é::‚:cœuÛ¹İÍ2Î¤,r´ÓY†ÌSVryµ®‚_'È±Xz^×"¹³‡Z=sÈâ\I@¿ğåz›µúÄ$e	¨İ¼äešµ&›fšD]A³Öœ˜U,qª›H|»Vt²şüğû‡÷÷Uóî	ˆ²ùÂ#˜òáKwÒrÑ!6ç|‡w÷mKIÈŞ>èŠéan)p¯…´VQ¯íX¥7œ}dxÍRßjKX˜ÍAÖèã&y«R±q§©Ø^›¢bãÖ, L6\)DËŠV?J‰ïÓqC¤vgK£™°¥OUÁíÔà¿Ğe»ì†ñw©ÛCyÒŠğ6NğÛMEœÊ˜Iäo7¶[wÉ€D:aCêœdø–U„İPT‚¡Kb‡”™¨‹ˆ>]­ı¤[®yA\Ÿ&ÙÛ“)vìgÉò(ı|~°ìíd¦—Z &éí©Lù7=(¸d†%€ù’ù¹x’åG~a“
-€åÅ¿Õ¸ê¾“äÍ˜¨æñPÀc×µŸå­4ÿ“”Èw‹c]z¬¶N­ë>Ë[áğ<Ïõqá¶üx­´pÚ‡a{ÉB<E/¨èpm½_ët‘D}-ã @ó‹s$…Vƒ}Ş`œ¿àÄØaiî"‰ZoøüswûÖğ;
-endstream
-endobj
-105 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-106 0 obj
-<<
-/O /Layout
-/BBox [0.0 436.31168 595.242 439.31168]
-/Placement /Block
->>
-endobj
-107 0 obj
-<<
-/Title (//deadlock #include <iostream> using namespace std; int main\(\){  int n, m; cout << "Enter number of processes: ";   cin >> n;   cout << "Enter number of resource types: ";   cin >> m;   int allocation[n][m], request[n][m], available[m];   cout << "\\nEnter Allocation Matrix:\\n";   for\(int i = 0; i < n; i++\)   {    for\(int j = 0; j < m; j++\)     { cin >> allocation[i][j];  } }   cout << "\\nEnter Request Matrix:\\n";   for\(int i = 0; i < n; i++\)   { for\(int j = 0; j < m; j++\)     {  cin >> request[i][j];  } }   cout << "\\nEnter Available Resources:\\n";   for\(int i = 0; i < m; i++\)   { cin >> available[i]; }   int work[m] , bool finish[n];   // Step 1: Initialize   for\(int i = 0; i < m; i++\)   { work[i] = available[i]; }   for\(int i = 0; i < n; i++\)   { finish[i] = false; }   // Step 2 & 3   bool found;   do  {     found = false;     for\(int i = 0; i < n; i++\)     { if\(finish[i] == false\)       { bool possible = true;         for\(int j = 0; j < m; j++\)         { if\(request[i][j] > work[j]\)           { possible = false;             break; }  }         if\(possible\)         { for\(int j = 0; j < m; j++\)           { work[j] += allocation[i][j]; }           finish[i] = true;           found = true; } }  } }  while\(found\);   // Step 4: Check deadlock   bool deadlock = false;   cout << "\\nDeadlocked Processes: ";   for\(int i = 0; i < n; i++\)   {if\(finish[i] == false\)     { cout << "P" << i << " ";       deadlock = true; } }   if\(deadlock == false\)   { cout << "No Deadlock"; }   return 0;})
-/Dest [9 0 R /Fit]
-/Parent 7 0 R
-/Prev 90 0 R
-/First 132 0 R
-/Last 132 0 R
-/Count -1
-/Next 91 0 R
->>
-endobj
-108 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-109 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-110 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-111 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-112 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-113 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-114 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-115 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-116 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-117 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-118 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-119 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-120 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-121 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-122 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-123 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-124 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-125 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-126 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-127 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-128 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-129 0 obj
-<<
-/G3 94 0 R
->>
-endobj
-130 0 obj
-<<
-/F4 133 0 R
->>
-endobj
-131 0 obj
-<<
-/Type /Group
-/S /Transparency
-/I true
->>
-endobj
-132 0 obj
-<<
-/Title (//buddy #include <iostream> #include <cmath> using namespace std; struct Block {   int size;   bool free; }; int main\(\) {   int memorySize, n;   cout << "Enter total memory size \(power of 2\): ";   cin >> memorySize;   cout << "Enter number of processes: ";   cin >> n;   int process[n];   cout << "Enter process sizes:\\n";   for\(int i = 0; i < n; i++\)     cin >> process[i];   Block blocks[100];   // initially one free block   int blockCount = 1;   blocks[0].size = memorySize;   blocks[0].free = true;   for\(int i = 0; i < n; i++\) {     int required = 1;     // find nearest power of 2     while\(required < process[i]\)       required *= 2;     bool allocated = false;     for\(int j = 0; j < blockCount; j++\) {       // split until suitable size       while\(blocks[j].size / 2 >= required && blocks[j].free\) {         blocks[blockCount].size = blocks[j].size / 2;         blocks[blockCount].free = true;         blocks[j].size /= 2;         blockCount++; }       // allocate block       if\(blocks[j].free && blocks[j].size >= required\) {         blocks[j].free = false;         cout << "\\nProcess " << i + 1            << " of size " << process[i]            << " allocated in block size "            << blocks[j].size;         cout << "\\nInternal Fragmentation = "            << blocks[j].size - process[i] << endl;         allocated = true;         break;  }   }     if\(!allocated\) {       cout << "\\nProcess " << i + 1          << " cannot be allocated.\\n";    }  }   // memory status   cout << "\\n\\nMemory Blocks Status:\\n";   for\(int i = 0; i < blockCount; i++\) {     cout << "Block " << i + 1        << " Size: " << blocks[i].size        << " -> ";     if\(blocks[i].free\)       cout << "Free";     else       cout << "Allocated";     cout << endl; }   return 0;})
-/Dest [9 0 R /Fit]
-/Parent 107 0 R
->>
-endobj
-133 0 obj
-<<
-/Type /Font
-/Subtype /Type0
-/BaseFont /AAAAAA+CanvaSans-Regular
-/Encoding /Identity-H
-/DescendantFonts [134 0 R]
-/ToUnicode 135 0 R
->>
-endobj
-134 0 obj
-<<
-/Type /Font
-/FontDescriptor 136 0 R
-/BaseFont /AAAAAA+CanvaSans-Regular
-/Subtype /CIDFontType2
-/CIDToGIDMap /Identity
-/CIDSystemInfo 137 0 R
-/W [0 [715.82031 245.11719 670.89844]
- 14 [687.01172 700.19531]
- 21 [758.78906 0 0 0 603.02734]
- 35 [565.91797]
- 44 [300.29297]
-59 [565.91797]
- 65 [903.80859 761.23047]
- 72 [783.20313]
- 83 [650.87891 0 0 661.13281 0 0 0 611.81641]
- 97 [583.00781]
-114 [932.12891]
- 119 [633.78906]
- 130 [557.12891]
- 142 [642.57813 555.17578]
- 149 [643.06641 0 0 0 574.21875]
-163 [383.78906 551.75781]
- 169 [620.11719]
- 172 184 267.08984 187 [500.97656 0 0 292.96875]
- 196
-[917.96875 620.11719]
- 203 [618.16406]
- 214 [642.57813 0 643.06641 416.01563 0 0 0 498.04688]
- 228 [410.15625]
- 233 [611.81641]
- 244
-[570.80078 785.15625]
- 250 [501.95313 567.87109]
- 256 [469.23828]
- 276 [702.14844 532.22656 548.82813 580.07813 604.98047 590.82031 0 0 0 642.57813]
- 419 [263.18359 265.13672 263.18359 265.13672 0 308.10547]
- 430
-[472.16797 661.13281 386.23047 386.23047 0 0 378.90625]
- 441 [325.19531 324.70703 388.18359 387.69531 342.77344 342.77344]
- 457 [425.29297]
- 465 [663.08594]
- 473 [291.99219]
- 491
-[521.48438 0 0 0 546.875 0 531.25 532.71484]
- 515 [844.23828]
-]
-/DW 0
->>
-endobj
-135 0 obj
-<<
-/Length 540
-/Filter /FlateDecode
->>
-stream
-xœ]”Éâ0†ïy
-»­ØÎBÊ‚%³h˜~€&Ò¢¼ıˆúÜİÒ }ªí¯rQq½oöã°¨øç|í~Q§aìg»ŞçÎ«£?cd¬ê‡n	$ßİ¥¢¸Ş7‡Çmñ—ıxºF›Rñ/nËüP/e=ú×(ş1÷~Æ³zy¯¯Q|¸OÓ_ñã¢t´İªŞŸ¢¸şÖNßÛ‹W±„½í{?.Ãòx{¯_¿“WVØ ¦»öş6µŸÛñì£ÖZoÕÆ9ç¶‘ûÿìéš°ã©ûÓÎân¶j£µÕ[!+”!“A)´†2!›@9TCk¡¤‚j¡t9¡Œ¸ŒzYY¨„¡eÕ”eT@+¡¶ÕkTçÄ­Q£ºD\‰êÕ:ó¢‡¼‚vÕÁFG=tÔ4=ìR-;ª¢ÅÈCi]H=cˆKD‹)™’İAd±5„Nk ”Y²”’ê¦¢‚uP˜'Yª³è¨¨ æRÊ²`£^†­¦#+ïgš°K9º¥Ş
-–,;t&dqÄ%tëxÍDâ¬“ÈdÃŞó±Æ_k.Mâ”…JÍÉOÃ¶à¹Â3Ç3<L:g«k¨ExÃø?ºcçÏ‚pÇ:»0Ûï,&ü™Í³Iœ)Ù¤„·¬ÄÅTd±«0 :~şµŸ'èónt÷yöã"wJnÅóJ£ÿ<eÓuzF=?ÿ Æ½,.
-endstream
-endobj
-136 0 obj
-<<
-/Type /FontDescriptor
-/FontName /AAAAAA+CanvaSans-Regular
-/Flags 4
-/Ascent 1068.84766
-/Descent -292.96875
-/StemV 53.222656
-/CapHeight 713.86719
-/ItalicAngle 0
-/FontBBox [-297.85156 -236.81641 1185.05859 953.61328]
-/FontFile2 138 0 R
->>
-endobj
-137 0 obj
-<<
-/Registry (Adobe)
-/Ordering (Identity)
-/Supplement 0
->>
-endobj
-138 0 obj
-<<
-/Length 10258
-/Length1 17940
-/Filter /FlateDecode
->>
-stream
-xœí{{xE¶ø9ÕÕ=“É¼:CHzÒ™IÈLä˜dÂ3OÂk& ™!	åı"OâP–ˆ.= ]TÜ«»îâª\]»¢÷îº»¸»êoõîÓ¹·zfB"Aİûİ¿~ßíóÍÔéªSUçœ:uêTÕ  $Áà P7cDş¤š–Ó x/ š——;’³?à< hi¾mµ”2»È	€ŸÀÖË.y¬Øò€ñï IâÂàªå ` €O@¿pqû‚{>ùøC É à$m­Á×İó@ ·µµ“ŸÒç`! d¶-Y½®:ètÄı@oX¼¬9ØT>k: ÿ! _\·œkO  iipIë°_•Ü@gàÎåËV­î9ùŒWV¾|eëò»ŸXú" Y ç{z €PØ:h¸¡vÀñ$8´§çYÖÖ èw‡Ÿˆ{+ü˜Š[Ïrú>„j9îÜè>½¼)¹ìK½N¯•\|ÁğK?~DX~LµÅ­× hUŠ÷ÀĞ×à‘HJ^‡|²€$ğÇ#E.ÂÇµÇ;I’ÀlÒUlÓï&¾­ç»™Fb’}ë“ş<«ÛsI-¿†Á18{`kQˆ§u ¬´ç’O[z.©nVa#ÙÙs'9Ğ³2ö.r#„)\ÚDÕx­ÁBìô+øœôĞ¼<ºŠgòÒ(ä0Ü?–PY/êh|4c)!.a(¯e$T¼ƒ ø-@!!'É/€'
-,ç9&me(wN÷)>öŞRÊfïgôÉ€J¿-”Å²×o¤Í3cìñÄ#EÄ!Xyš”s{¶+twˆ@å)¾E€ÊJm°Ù¨€8MÛ šÒ‡€8ˆœ0Š`<L‚©P3Á7ÁÆmD#a4”ÃT¨†˜s!¨•±çÍÛÏö†€ ¥ à)PµĞÀÊğIü ^Àçğyü!^ÂÇñìB‡áa|¿À¿âç@ 	’A„Ta,”CL0!+a-¾€!|¶B'ÜÂ#ĞÃSpÎÀàEx^…óğ.¼ÀEøşş_Âe¸‚€?Âğ¬fÏL4î¿çêjx>Š#Xà‰(Îxx8ŠsP
-(N!Ê¢8C #ŠšÌ^ÂR¸‚0CÃVA.4@+,„5°Xã~6´ÂJX‹`,	ò!FÂHÈïSWê­-}­ö5ê±à…I ¤aßÖkÿ·zòÂ2Xí°ÁBhƒÕ ÁS¬·Q Á|hI£[¬Ñ¶E%˜Ë`,…X	í”ÃbXRŸ¶Vio­°J“ş6h…È€á0o 'Q×&Gaí pè:8ığŞ5 ñ$¿´§pú(ÜÚ:¿^é…¿ôäÀÀæoé" 8€Mº¬^hÒ`Ïà#úÁLí?Ôÿç5ˆ; <÷x|R|CíAÂ„!˜ğ`/¼–˜Ğ¥ßv$Díôi’şzauÒ¤&K:—ôÙ5HÎNŞ| ù”¿è…°a¸ávÃk†?õ‚Åèê/|Şş šk0Ò4Ò4Í4ÿÛÀŒ üóğü
-€¿Æ|Ç@{øÍp‘ß{*Lp±ï;}»ÿûz×·Ó‘…ß­­¦}İX¸(X.*–q ‡/ºÖ?ík:ø´Ü¯£Pü]û¸Ñ£[u×ñcúîcJ×À’¦?>ÎÑĞ>`™£>}x`º¯?œ	Šé-à½·¯à\'2<úÏğIäİ½í>íøàì@ô:œëÛ_?>¾ønr@T?Õ7³{ÜU¨ºQ=nÊõ{ú;8ñ]û¥÷A±0&_—O!ŸŞöëú{ùÆ¼üOş1ØK+ ¶@}êè{à¥ÏÃª~4™°õ³Ïÿ{şÿxˆöt˜Kµ¼µÏEî§0™Ÿó8+¤rVğôæë¡íºv÷Á	òÌàlPÇ)äEøyñú9r£‡[ñ8x£r¾ö›}'™ı?_³ú>ÔmìÓû€;´ÔwPïõrÿ³ğ2ÌTÀ-)0Ë7Ñ/IUg iz•"Ìhô)…6%ÛX uÌò)ÄŒlÎ›åù6»]¿^¹ò$ x¹
-º)° W!nÙ.ÛsÎ-µœâ,"Tx³W
-*BÄâ­98¯B¼3×IJ¢¬¯7Ø¢Ğúu'	!Ş@…bojg¹'“D¬*)Ä+Wœ4£Ù¨¨÷µúO¦ Ñ:¤n…s)¢×ÇúSR¼Ş(Mj‘”sõ
-u6ÌÆAŞ‰Ía¢Ï®pÃ\Ÿ]¶Û:|’R_ï³+¿MRJVê÷K¡u°EÉ®÷Ù£o’2’•d”çê}Ò©£#()ñõ¾€MR$VÏ°b†l¿ßoSˆCIô6+ĞàS ŠÛ•D¯­JIcXZUğŒšÅæûı-A¿‚.¿?*_jQR¼r…?WáİÒDI¡`‹¤è¼õ>E'W(z¹Âf·ûä*‚¦n…sI-!İü
-‰2qmöÙ·B›>Ç.)z¯Ô!u(è
-ä
-uN÷êmÁ¿OöÛı’â™áSĞecz‰²’«èÜJœ×uHd˜õn%N®%äŠ Bæ/P°YÁ€¢ËÉUâÜã6ÉÛ|†Â|‰µ x~F¨Ô¸wŸŒKïÄŠ{¯á$¸ûRb¤tÉ
-xêH;ä TMÙ`c¢H6ÅÓ«0…sÈÁÊHƒnP]É¬÷±Ê*%¹5NJnb½Ïn“íş{®’ì2Qi	Væ*·‚IR’½ÓX’’,Wø{kğIŠA/£[RšR¤3š;ä bô¤€¤å
-9W1¹«fúB´¥ÒŸ©j•×å*fwÕt_ÕŒH¦ÍîÏTÌZ¾Å“w–/d2yV(F›r
-qT„’Ù—8*L‘%…sÔûBL}
-uTttH¬[C]V0Ãm‘rV…8´¿’ì¬¼“
-é?X7Â€Y®TĞ«Àø“ˆ¨–è†‰3}ŠI®&*Ir…2HVh BR,r…P0xzğ`#˜¡¢¢‚iÂâ°²EïRîvÙ2ü¹JŠ;¢+W±ºCÈÒÁîaiª;Ä±tˆ;DYjs‡x–u‡–s‡t,Ms‡ô,Mw‡âXêrË±P„@ÕLŸ,å)x›6¹Š»OaJoáŠHanŸBgoáÊH¡ä%Ùu#™¬ÏFde‚ö•ÏîäÊU2Ü!d©ì–fºCKîe©ÓâYšå	,Ív‡t,îéYšãÅ±4Ï-•i–;Â-”ÁÉ++ğjc‹%ïH·2Â¥ŒÈÉUF¹%i²tƒa•ƒ¥2óğßHacÒçÇÆ:”$Ld¦§ŒÊ	ñ(NôôkRôQÏh
-İR‘Æy‘¢4¯ïSA×€¼°|HyF[¹*ÇË¥¡B™¬Ån©Lš|şğKs•wµ,W)ı6R½Í¥¹Êhwˆ@ŠCÊ“&3ß ÇÔÉòd9(ùæÛ˜û•+N–"Š–œ\eŒ[Å*W(Ô¡P‡FJ„
-%ÁëjíÈ“%©¬£4WÛŸLÊ‹´§rEŒZRÌ¹x¦ûNQ‰—l§¨“â¯`.7Ş+uÈZyR@¼_Ÿ·æö"ËõZd…÷[ê}
-õm
-ï0—÷õ:AY’ê”'Km²ïÄ–®x¯ÖK@¨9â\o€ï*üu­*ÔÉ˜p0&8G %êR¯õåÏUÊbº$IáQ]Èe¥¹Ê¸Ş"%^+Ÿ$Of²Qß«B&LDÓ
-ÌôåIe²][x£™ã+:ŠàPxÇÔ¾ALd²öèhÉÌä'ôáÄ® ‹t¾.rlˆ=nYÊcZœ¤X½¾z[ƒß'•ùóB#ÑâÊUÊû•6Øêû•VX÷›jxİÊ×7uXéVÆº:$©ŒÙXGéIÁ›§Œtå*5‘™}:#š*‰rEDtf ²T&åÉ¥Ñö'¹CñÔQ«òOšôäÿ-+f21?V&—Úì}ìÅîò9Ù‚1®˜V¦¸C0Öe—£z‰JÓ«‚©nÄÈ´?	l†›ó”âœ\eÚò«Ü!@‹Y)ÉÉUªİÊèœ\¥†iq¢,åI“:ä`L[µnfĞJ+W©sŸ˜äÊUêİ'2İ}µœ÷IÔrf0šÉ®\e&£aÈ,FÃÙŒ†!sÜ§ØUˆ+Wñ¹O±Ê•«øİ§0’×è>…‘¼¹Œ6ÑiØMŒNÃnftÖÄúœèÊU¬O†YŸ™ÏúdH3£™âÊUZCZC0†,Ôøªtå*m_[¤ñÅ°[4¾v«ÆÃk|1l‰ÆÃ–j|1l™;e½¸\{S<®\eE-wå*+™Òµ·
-W®²ÊÂ(ÍêÊhÖh4¥¹Í‚q½­®ÕŞ´ë"(«ÑAùíîF	ÖGPF°!‚2‚îŒïmo“ö¦‘o Œ|Keäw¸C%ØAÁ”ls‡`Bo{Ûµ7|GeäwEPF¾ÓÂ(Á®Ê:"(#¸Û}2AqÁv’n¢O¶Ûì~…KÑ·*\fıºØbÚmæo è|7p ƒlØe3An!»è$s€hbdu”RÕ™Œ^HuG£7Úôƒ«qÜ^İC>á»×\)Ô®®Ùé$ŸÉwƒÀåÉv;Nq¡€<Ï5Ç9j8¡V¯×'èLF£Ñ ÓÛ\v™³s2è8;Çg¹+|ßÎgPıËö+$é2Ş§.ã»Cá¡äàØ¾›Oà»Á © A¥§<>ğ«uH€§„_ÇØG)Å&Xkb2¤"Ù¤Á)ÆTS* Ù§·º
-Œöü4-‚NÔ™Ë/.*tÊv#JFÃp4^$9wmZØóĞ_/å·ï¸c“Úû±T}Mmå»g\Ú´Ï%f¾xïërõ›—­Y£f‡Çã~öô\âkùóÏ¸xD29Jª	%H· åå61]ÀUÇ™¾Ü|- ¤CšÉ™av2%ÑLRThÊ,È§Vœ‡r†@D‹)¥ ¿¸¤À*P™´©ï=Šîs¿@CÙÒÔ²s{;Şİ´éİƒ?•ºªPıÃ¢‚3şügœ¡ì?0uã¢õê—o½¥~µşïşñ›@4Íná»!Dp{†ÇaEDGS`—˜ `1%ˆ‰"ÄCœSĞ[]@M¢…PÙn´sùÅ¦¢BÂtÇ=€~Z}ù#5?0şlÃ†ÏN«ŸğİÕç¿úJ}ş ß}ùÃ•H~ù.âÊ+KYÿt%ß	0Âã* TNÒ„8jØµwhƒ	 	`dSí¢=úÁ]ä?®ŞÊmg‘;I(|±“ïîT­ÑöKùnˆƒá' ÉBvØÒÄ#¥¦y'Çšƒ8Ö² âÂh»²‘–†§“[Â{óİáOï	¯ç»#mâ.m™=`ºŠhÉh úÁ.»l,À]Ç³PDúŸÊwé¡ÆD
-ôŠÄo4Rıà¨<¸‹œ»ú ß}ùıÎX_ÂM|7$ƒÓ#'Ç‚XÍiã£ÍT­k3ãİ è‡Fº/À£lÌBu¸á`şHÄ}Õ•ªÖSëRùî+9ôİËÓèSôÊú4ôÂÖF!ÍcKà	 V­.2sf£ê‡DZ/1YËÛŸ|›ü,õÈ3áTÖf¥şËÓè1
-D³ÿ“üyH†TÍªzGÃ 307Ö †TÃà$C’fU×¬=b]Å&£È’Ñ`'-êûGbö‹/böÑ£êû/~ò·¿}¢fãûâã8ıÊœşøãê‰+WÔÄaXˆ…8,|"|"6N_ã»!Ì0Ò“+°× RÒÄGÆD¤A &Ã s’!ÁèÔé»€y‡$”™9Ø¹ˆkà6¿¿bÅû©‡“G©oªOğİ‹¶sçkKÂ¯ğİáTÌAWøX¬ïßñİé0ÚSGe~‹AJÏGı–À‡ÁV€´¡ÖôÁé)™6»^ŸÚßYYÍ2—G˜£Šy¬‹Ä|ÿk-;ïÜè¼+´gHe[½Ææ];vìRå»ƒ¡ö!·8tİZµ_ªkÌ/ç26oİº9¬2mé¹D×ğçÁÍ|U*r”CRÊÁ ¤€›˜®‚@ˆ‹©ª¯¯rƒ+Ãœk·h¾*³J
-RìŒ¯<yXT8òSb®K´¤¤cT¡øå¯÷dŞœº‡>Ttû¢c/=»üı½‡[93uÂñÕï_y×‰_¾´ì7‡ÅªÛ§®ü]Çú)-“‡ääılß’c›nZQ3å¶¶æ5RNş›‡6¼´İ¼Ñ5Úd÷¤±å†k¢È–Ş‰¦Ñhäõ©Úü–ö"ºF->¦óİ{.Ègîdwo:§6Û²<™ ÓaÏ†ÅQC5g(D'Cä1èõi.»Œ½ £L6ÿ»:ŠæTœr§¤¢å°zò7ê›"ß}e2}}.O£3˜ŞÇD×áAl#Úz„ı`_™á4ÚÉh4is»@‹ôÇºúê,¾¦Ö¼ŒËRqõµ_;§®O%Ÿ‘Ÿ„Oéá1aig¸¤çE[`8Œ†×«Ø‘›Ç`B„<ç0Ãt¤WmûZ–ÀUû#¤v@ön‹˜äÕèÂq4¨ã	¥NZk«Rœõ>ûzB¸FV£GAèSÇ3üä#æƒºˆùıKN@ÎèœRÙLÙäcÖædÖU2°I!èä,ÍÖD£¥ ¿$“PÎp`Éx2³’P—DDKJf~t×º®…+o}Äc©Ÿô~Ç¿<W;dp’Ù46}îMƒÄßoßr×³ã–¦ÀŠ‘+[Å£Í¿k–Õ’?~DUıŒ†şEÇ
-ŸGW$ª¯%sfoµ¯õ{tˆœ4¨xÆ¸`+Óù¹Kô˜fHƒ¶n=GxŠÕUJj½Ï3³jbÓ)¯†I	A‹øqSx¿r¶´hD\P@ssµ~Åb°¤Y†¥ZÁ&ÙhaN‚:³t¢l,0Z‹òS˜ÿäL£¦&7™ÿl‘ØÕ%núlçë+Ö¾uÊÇÛæÌ~±©–> Ä‡¿O_Ü¤ö¼xVíÙ¼^|ãí÷ß{›Ùi{Ï%šG[¾c,“÷±Œ“y÷âk!	EKFbæşğÇ;ş¸çÄ›yË,¹»—-Ø7kö#V=äou]|ZÜÜ3Ï"·}ÛÒú¹³çîîx)Ø¶|Âİß¢ñØ"ÄƒÒ¡­Û0¾£ì1U¦oBœ¤¯¾cìr½¾E@LÓl©`³ÑâŒè»WmE,Êb¶†kv<}~Õº·ï^ªL`j/~î_œ9³ïàq¬7#¼ğâæM”ÌüÇW‡hCÛ·ß{ÿí7.ª³£ÒÒ-Öï‡q·èP  °¥C›.yÌÅqAĞx2dˆ4DÊrÊ¦ƒ^?Ô…ö>êÍ¸Æ°E—¥9dµ…ãu§Üvïpñ–‘oûşï7ÜùÛ=ïüé£ôû›ùÙÙ™ÖíÚ„ğâY$›ÿzi´Aùş¡ñºÜ!R!è‰OD$!r¤ºJ¥iã4#Îªá‘…qlÙÏ®Ñ¡ 8…Z›Ç8$Ü¢Jıd H…T£%Óa42Q˜†œ‘ÅšŒ³¶²˜é«sçLspËaß±¼-ØlÂ&õ÷óSÊo½ÊäU´°eŞèêW‹¯ê¦¥ôS(/L‡æa"¡†<”Hx"Z=$•À´8ä	‹ú™†Ğ‚à¬‰Gê‘ãFrµ••¥¥ •Ó+ëk§•zK+Æ—A	ÊËÉ´˜ô).p—±Å°¸¤(&Áxœ€Ö$Œì>ØàdE'ª•æ˜Š‹z'¯‰Ù[ReA´Ø±à³å·L¯f~wûİ7É2/îˆŸ>­¨ ¥{mRf¶¹p¼·ù§ºnù½²jËæÛnÛ°á¶û+“ÿS~kU÷ï½ié`qXm±§^›Ş]üäÍã²ü¥ƒ¤™«bÎŠª¶'š)Î)ÅÅ	÷mo>ØÄ½{ûÒ•Ö¯ZÖ~µ»Ø_2ª,&rcp€NÖf^®'‡&V@óÄ¼F¦šöÓYK¦YÖbì‚˜Ÿ²±0Ïu‰·}üÓS]·ÎÙÛ-Ä‡Ÿ¤İçß!?ni/ùñGáŸa¿Á»„xH€dY2£ÑF'‹N¶_:¹ÚÄD€ÄäÄä¤A ñ™,²4±Q`ı±­±ÀøQyyaayyaCŸYŸ_Î>—?¤uWB@zv«îh/6çc@Â%!%¤šïÓÇe³NiP@JGÒH§¶Ä!Ö³QëV÷µnÁ™5ÙÎ­ÈX`´rŒõ³zGª9¿°vF×c÷\ãæúä¤M‚ya€¾q¥ô‰g£Úæş,ÄC‹%uˆDãXÌVÍöÜÒ…×t!ğ$¶¹I‚$£%ºobš/À1Eeã¹.î;¦VáÇİêd›µ_·ªÆğ[©¨ªÌçœí¹Dò…xHf;¨xDHD‚$:Êˆ$Èv5nm|“!I6³½uj"¦Äb¬ØÑUTš!'™M^§¸}ŸrùË‰ãè–ÄA©„§hdBàYÍ¹¨ë¶EÖF	@DÕMqz‹FéÀr	Y¼”÷5
-¿ÇÈşu ™²Y6g˜2ñú4&¼h„¤ÑhA.‘×sûÅÒƒË¶|/K}äö£GºZ—o‹|Ñº.zSSpqkÛ™³aùtİÊs†ÂÒç/„ŸÍÚ"T?™IÌì|"ˆÈ8Í›ÇªIpıLñ{€b¦936Y¢\÷›-ûÅ’cë#ÓåÁÓ´îi>¸ wº¼úëğÏ!º–´ÓH[ßXŞ ;1›aHßXïb‰$z6B]üÃÆ8p@û>|âÄáÃŠrXÜ†xú4’mÛTõôiµgÛ·~õë·.üêWoi‘ZNÑ0k+´©DÄ<lD9‘Õq×°Õ7‡ÓVhMM”FÕt=M,"J·¤N3˜²‘­Ğf¦·k"d8³tF0ì±¸ã\—¸ş/o¬\÷NÇòNÉ£jhşŞÙ³÷ÎWË…¤Ã‘xè…Ø\ë§áS¤â±Æ—öÜ÷R£¦Yµœ¶Ğ°€mİFüšD$ãVSy?‰Øüì/QšXÌ!‰éC‡0¿iqf2‰ĞÈ‚Œ¶–D#¢#DÆFb{Y,nİ¶ó+Yä/v©Ë}fŸúìÓ©å¤‘Ş4gSø¹—‘niĞGşñ)óŸİ}ñ]µæ½ó1ÿ2–úÁ u=ˆçGbºI³È@Ñˆ£µyR :95YzüDí¿B†LYÛsD‡"¶r3ë­ùåŠÒËøiÛ:™ñŞAÓòQø·€PÕs‰»Ÿ¶|Ç=iŞ€{RwFŸ=©:¿mOzOèöÔ€Xüğ¢Û7×Ì~şÁ]ó^ûğ‰Qó,Eg/Yİ°àô½[æ=¿C,	”µ4ÌhšU>KÌË<°ªqû”YÕãŠk§yRİ­> íğò{.qiüLÙ‚<V'&2M‡ò(ğ[Øì#MÌf×@Ì 62ù3Œf£If‘ƒoR*ÊEE%Ú)Ûá?fm¦¾rî\6«n,?±&+=äàÿ°©Ww„W¼Èş*'z.Q­3T?›Œ½>‰h©<%Ñá´Fs9ÎÉŠh“¹iÔ'™Ád4g˜™OŠºøèj	~qÁé®O÷ş°kŸ8úàFñ'/‘Ã+¯|HŠ¯„æ[çG#F:ÖlÁœòÁµsF¶«3Eö¹äùSç)8×Š¾ã´îê­Üƒ¬É Òº¯ïÒ³¿y—nÖZ4 ÌÉD~CıâĞñÆ‰¿8 ~ùæU‘Ö]]ÆİÇ>WBœ ÷¯´î†;ôììĞÍ±úïŸÁYêÙ3=VE}kÎ¨ŸYI1«>|2üçğ+ø¯€`Wİ´†Ö•EPÉ‰”$ÈÑà²ÙşÒH¤	 VH1‹N6£L,š`vÍ"ÉèD‘å4Óà)N¯o‚-K¨à\3ÖQÍ9mÍªÛl¼CH4fÎ˜º˜.ººÛv…ŞrGÓi ·’ÖC;gÔÂ!V³Õ½)âª¢ÇëÚI£Y¢áX„Yö"»ˆV;·òêäf!ü2Ç‡ #N.KÜÑyõ‘ùÉ½=—xv8ìÛÎ‡†ö?4"gFCïY`ìü›äõÀÃ#:„ğĞC=pè¥W_}iÓñ¹so÷ãt¤Hqúşıê	õªzU=±ÿ šq<Gójõò{ï©—W3©ÛØ/jµóá§^Çq;rcÁ¢ÎLm’©OVdgNXW4K
-Œv±ï±÷¬\q±q¶vÒ›…‘ƒÜPrùıÎ¨^ÿ2™^B@5géb¦¯İ8¹ZãP§‹éµ¤gìP#µCˆ{JÆ$"ÚE»¯hË÷ù——wÜ¿ú™bëÂiŸ:ğÆü†½+ºæÎÏ%¿¿Úêm`Ë‚5åKï¨ßºmq3]¼n×-?Z?ÿèŞk½7ûKWu=—èHş<¸˜’JçÈ$È\= Ûj.ŒÈ¸˜öõ¯.ÈqdÚ3£{ú¬kÌ½º°(‚È}8ï½bÁ¥—[¬ÎƒïÿÁáĞÁÎ®İ›/ŞlŒıè‘ï½º`ãÂûöüıKñÜÑ1ôÎ­wuvîÚ¸v­Bµn˜óøÊÅ]#Dù¥»ßú-ûÙ ½W»³Ğö Iìşªš"‡U<r8l‹]8¡–MÎŞ³q{²¥HvXíÆ,îş®ğ²ı|8¾=eÅ›:¸7¯ê8(’§Ì>Võ\¢“ùn¡Ì3ÚÄÍ>¬ˆX½äZÔï¦¢¯dÈÈ4Z2³®éˆÄT#è²ÌvÑÎY¯­Œ»¿tl¶¦NßÖüÀáÜ³dgaÇP® Üll»ó_n]ÿñıb÷‘1tÖâ’ĞSÇOùæ&ri{T­®ZóoøÍZ °µçíäÏÃ0pA¹g|<òTOR­c[Yˆlec‡¸Ì«DÏ7ÒÒ Ò\i9ÎLCèáFtXM×"ñX Ñ@9º…ƒÇÿ,m¶Ê÷İÑ}Nwö]ç—¬»x?"Ê_nŞSW·§ù¾Ç¿O|ú¡1tÙr‰ã…ë×şê¾û.¶«‡ÕêeõÉ.òtíŞ¶¶½uÇ~ğƒ£ÚıÙW¸~	ª‘`*vŸÉé­®”>;«w**F©ğ÷z=EE€0A]»áH«Ç’Œ0¢[7'ÔfšÙMy<–d\kE7aÎ:2Ö[^<vê;Õ7Gïmd­5øüÒ==è\ÈÀ®ÿŞƒêØ7×q!Ä3\»Räb4ZŸÍãÓhgƒ_áiíö(ŒØ—v¡ñôN®–RšL“Fƒv^-Hiñ#GvG%Æßq.{zÅf«#9Â±=3õ¤šŒ†¤A	z-‰0•İ4@m*ê­.ä²J²%|	WÀYV^gÕqøá¡»ŞÔEÉ˜yL6 £Pı©ğŞ÷r/«¿_ğ©¹üĞÖœ ¾œ°­«Üü—ù8˜É3€ş…ï¤ÃdO¥aP—¬'€qĞ–¤#(P¢]º%b|¼#¶AHO6l`’:Øš"ZÌÆŞGŸîBQæ
-D;'›ÙG.*0ËEvsÇ>h7Ûé_¾(ùLıÇÔ¦ª¡©Lıõ%Ÿ£~êS±vêƒSÃob]±z’ÒêóÛÕ<Å>ÛqÒ<©Ö²Zˆ“˜¦R{F÷„øè= ì`g½Ç³ÊXĞı(±?zAø5+ôôŒ ê©yˆúhøãŒ¡l$‡¸dà`°GdÿÆ9ÌşšXÅºH´ÙÉ¡ğOÉh²qO$RAØYŠ‘Y=a¡Ú¶ËÖB#S˜ÕóN¶(jçyÚ:hÕá;ÛÚ¶ŒN[8aÂÂiôÂx³q8>vDlÿ\ıÅÙ³êŸ·‹¬ı=#ğOZûÚ½eoó)©š¼ãQ»Åe78l¥ÕÉ3¢M.e,=Ûş9üè,æÑ.>¡Õ÷Ô÷Õàš<=#ÈÛB<8 ÔS4ÔFbÇ•<ÁEÀ<´¥Úe­EÈÌÍ&CBœ^ :túŸá,2ö®ÆÂâ±(jÛ„èâa´¤ŒE‘,ŞıHMc}}cÍ#»64ÔÕTUÕÔ54\èìÄæyUÕó°¹³skUúTë²¡âĞe­êSuU[aJÏr^ã°À32>PvLÅ.bÁ$|«v–ÁN+5/ã€L»ÃkgîÛcJ;Ä‹±™e*Ê¦<ezC]MuuM]Ãô»÷Õ4ÖÕ5ÖìÛ}akUÎ‰²ƒsêª¶vvªÎ«î¬š§>ÚÉÖâ?õŒ k…xĞ±ùÊşiÎA3ÛN1§EzCbİI3G°V]…»¿øâ‚ğë­—Ù-ÊäøNo}fiZ}-®èW¿ˆ…év|G]õÅ¸ûÂVş½­Ìgä6‘Ÿòİ?g«ş×hÿC?ÈmÂ†Ş[î˜—Šİr£Ì`î"Ç)n)İ2ñÙüyÈƒ1P	³=3Æ¤è8Æ•ÉiV #zF%É „]lAˆÆ‚q:B7_Ï¬Ü\íØ± c+Çz‹
- rMÌ¡¹ñ‘½\Qañ„Ş=œU$#ÇqX`Ğ±å*vñ“%}P­¦ŒnúñõOÖxVuhYÛ¾‡ôe§ß»kLzúĞ¤TSYÚ¤¶ËúÏgnÎšsk¾÷ÃÅê¢`ÛŒ½­ââŸnÛ÷r™8w·¯ñŞS¶Ïİynœ¨òJ{ºúÄK#ìqtmbÒ˜±¹Ÿl[X3¯ugÅÍan&IÊ{`Epç$vËŞ3×}ƒ1àºıû£şs¹Wé®H<®m9æPØ dGÿ,èàI±÷ŞíÑ[M»±€°Uİ¿Gİ‡öpR‡ú.êÀEšWÚË½ÊI7ôJBÄ+q¯^íân"{;˜}Ü¯rqŸC~
-©pu,íÆ rA)r±Õ­g„¶º±vî@ä> w„Sb¾+‹4à>¸ú$YŞÎùÈê¦#hÑxDİ¤ÅáˆÜËÑ:”ÕA‹PD‘{ùêÎŞOÁ­[qëõ¯"ğ0³ç’°˜?I`	e°#²©u	„×ÇŒãñí\‰ı€ÁU3ãâH0Q;zËíG§İGù]‘ VALDÎ­«õ{œ£FÉ2;‘U6jlI‘<R1<KÌí¶T³ÉI0È‘Ä~£YhoTg–³°À
-;ŒÚ8ûRô;V÷àÌgÿÀÌ™Ì·ï¡Ü…ûéÕ[oöL>|º‡üé™XáÍ77ÍÛDøº;^??§»££ÛnùCb¸ıG¹£xC[Û†â«Î¿ş‹ósNwttÏÙÈ²·ìÛ·à¿ ˆqš+
-endstream
-endobj
-xref
-0 139
-0000000000 65535 f
-0000000015 00000 n
-0000000659 00000 n
-0000000716 00000 n
-0000004449 00000 n
-0000004559 00000 n
-0000004593 00000 n
-0000004661 00000 n
-0000000184 00000 n
-0000004734 00000 n
-0000005119 00000 n
-0000005193 00000 n
-0000005879 00000 n
-0000005911 00000 n
-0000008887 00000 n
-0000009647 00000 n
-0000009692 00000 n
-0000011030 00000 n
-0000011300 00000 n
-0000011871 00000 n
-0000017753 00000 n
-0000021849 00000 n
-0000025021 00000 n
-0000028705 00000 n
-0000029979 00000 n
-0000031359 00000 n
-0000031444 00000 n
-0000031542 00000 n
-0000031641 00000 n
-0000031733 00000 n
-0000031839 00000 n
-0000031944 00000 n
-0000032059 00000 n
-0000032149 00000 n
-0000032272 00000 n
-0000032381 00000 n
-0000032478 00000 n
-0000032594 00000 n
-0000032684 00000 n
-0000032793 00000 n
-0000032902 00000 n
-0000032997 00000 n
-0000033092 00000 n
-0000033201 00000 n
-0000033303 00000 n
-0000033415 00000 n
-0000033524 00000 n
-0000033633 00000 n
-0000033740 00000 n
-0000033834 00000 n
-0000033929 00000 n
-0000034034 00000 n
-0000034141 00000 n
-0000034234 00000 n
-0000034334 00000 n
-0000034443 00000 n
-0000034548 00000 n
-0000034646 00000 n
-0000034774 00000 n
-0000034867 00000 n
-0000034968 00000 n
-0000035067 00000 n
-0000035167 00000 n
-0000035259 00000 n
-0000035381 00000 n
-0000035491 00000 n
-0000035589 00000 n
-0000035705 00000 n
-0000035803 00000 n
-0000035909 00000 n
-0000036040 00000 n
-0000036157 00000 n
-0000036279 00000 n
-0000036386 00000 n
-0000036502 00000 n
-0000036606 00000 n
-0000036731 00000 n
-0000036852 00000 n
-0000036962 00000 n
-0000037082 00000 n
-0000037171 00000 n
-0000037295 00000 n
-0000037433 00000 n
-0000037558 00000 n
-0000037674 00000 n
-0000037801 00000 n
-0000037936 00000 n
-0000038032 00000 n
-0000039112 00000 n
-0000040714 00000 n
-0000040808 00000 n
-0000042905 00000 n
-0000043591 00000 n
-0000044153 00000 n
-0000044973 00000 n
-0000045013 00000 n
-0000045060 00000 n
-0000045093 00000 n
-0000048069 00000 n
-0000050844 00000 n
-0000052977 00000 n
-0000055555 00000 n
-0000057442 00000 n
-0000059248 00000 n
-0000061072 00000 n
-0000062926 00000 n
-0000062987 00000 n
-0000063079 00000 n
-0000064753 00000 n
-0000064787 00000 n
-0000064822 00000 n
-0000064883 00000 n
-0000064917 00000 n
-0000064952 00000 n
-0000065013 00000 n
-0000065047 00000 n
-0000065082 00000 n
-0000065143 00000 n
-0000065177 00000 n
-0000065212 00000 n
-0000065273 00000 n
-0000065307 00000 n
-0000065342 00000 n
-0000065403 00000 n
-0000065437 00000 n
-0000065472 00000 n
-0000065533 00000 n
-0000065567 00000 n
-0000065602 00000 n
-0000065663 00000 n
-0000065697 00000 n
-0000065732 00000 n
-0000065793 00000 n
-0000067660 00000 n
-0000067815 00000 n
-0000069028 00000 n
-0000069644 00000 n
-0000069900 00000 n
-0000069976 00000 n
-trailer
-<<
-/Root 1 0 R
-/Info 8 0 R
-/ID [<E90B8176707E041CC0957E7178E07564977DB2F428684042FC2307F89B5339DA> <E90B8176707E041CC0957E7178E07564977DB2F428684042FC2307F89B5339DA>]
-/Size 139
->>
-startxref
-80327
-%%EOF
